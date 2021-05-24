@@ -1,0 +1,5843 @@
+fileFormatVersion: 2
+guid: f507a2c18df2607479d5525a4e4109e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5493285017297224600
+    second: Hermes2 (1)_0
+  - first:
+      213: -169796748531182379
+    second: Hermes2 (1)_1
+  - first:
+      213: 7387328638698209641
+    second: Hermes2 (1)_2
+  - first:
+      213: 5572785717424680184
+    second: Hermes2 (1)_3
+  - first:
+      213: -1282484490175663923
+    second: Hermes2 (1)_4
+  - first:
+      213: -8642972374219132231
+    second: Hermes2 (1)_5
+  - first:
+      213: -6439565008847395979
+    second: Hermes2 (1)_6
+  - first:
+      213: 5382480211214344454
+    second: Hermes2 (1)_7
+  - first:
+      213: 1668865312822510348
+    second: Hermes2 (1)_8
+  - first:
+      213: 5889920784096852438
+    second: Hermes2 (1)_9
+  - first:
+      213: 33467531015843555
+    second: Hermes2 (1)_10
+  - first:
+      213: -1214525473940555073
+    second: Hermes2 (1)_11
+  - first:
+      213: 6651922391299435947
+    second: Hermes2 (1)_12
+  - first:
+      213: 9010181303419373561
+    second: Hermes2 (1)_13
+  - first:
+      213: 7324326269639025443
+    second: Hermes2 (1)_14
+  - first:
+      213: 8262412560288021827
+    second: Hermes2 (1)_15
+  - first:
+      213: -7070635326478114912
+    second: Hermes2 (1)_16
+  - first:
+      213: -8797459000478883212
+    second: Hermes2 (1)_17
+  - first:
+      213: -8059710051909672155
+    second: Hermes2 (1)_18
+  - first:
+      213: -4813551893080113351
+    second: Hermes2 (1)_19
+  - first:
+      213: 4956669960834790501
+    second: Hermes2 (1)_20
+  - first:
+      213: -9175567649618498618
+    second: Hermes2 (1)_21
+  - first:
+      213: -6462614398240421391
+    second: Hermes2 (1)_22
+  - first:
+      213: 3201846915147754828
+    second: Hermes2 (1)_23
+  - first:
+      213: 1873187923026657946
+    second: Hermes2 (1)_24
+  - first:
+      213: 3616463258606371245
+    second: Hermes2 (1)_25
+  - first:
+      213: -3615171693123710192
+    second: Hermes2 (1)_26
+  - first:
+      213: -8877276618300151443
+    second: Hermes2 (1)_27
+  - first:
+      213: 2905885564695947523
+    second: Hermes2 (1)_28
+  - first:
+      213: -1929378902994548328
+    second: Hermes2 (1)_29
+  - first:
+      213: 747866686056594319
+    second: Hermes2 (1)_30
+  - first:
+      213: 7718625525313434327
+    second: Hermes2 (1)_31
+  - first:
+      213: -1622515172681666288
+    second: Hermes2 (1)_32
+  - first:
+      213: 7121806305770540883
+    second: Hermes2 (1)_33
+  - first:
+      213: 3061605988468154972
+    second: Hermes2 (1)_34
+  - first:
+      213: -5297785656086946432
+    second: Hermes2 (1)_35
+  - first:
+      213: 428026198816891826
+    second: Hermes2 (1)_36
+  - first:
+      213: -8982464285854900817
+    second: Hermes2 (1)_37
+  - first:
+      213: -2841629852191272593
+    second: Hermes2 (1)_38
+  - first:
+      213: -4811644725351238202
+    second: Hermes2 (1)_39
+  - first:
+      213: 2859441108777054403
+    second: Hermes2 (1)_40
+  - first:
+      213: -3120145424210439675
+    second: Hermes2 (1)_41
+  - first:
+      213: -9161236222632610234
+    second: Hermes2 (1)_42
+  - first:
+      213: -2900248876901670905
+    second: Hermes2 (1)_43
+  - first:
+      213: 7952169141113713108
+    second: Hermes2 (1)_44
+  - first:
+      213: -1937064591776207480
+    second: Hermes2 (1)_45
+  - first:
+      213: -1612785961978337927
+    second: Hermes2 (1)_46
+  - first:
+      213: 4580933802023137143
+    second: Hermes2 (1)_47
+  - first:
+      213: -2074674328814053746
+    second: Hermes2 (1)_48
+  - first:
+      213: 8402548305978495029
+    second: Hermes2 (1)_49
+  - first:
+      213: 4233787451742623718
+    second: Hermes2 (1)_50
+  - first:
+      213: 153128927731425683
+    second: Hermes2 (1)_51
+  - first:
+      213: -3185469354934780272
+    second: Hermes2 (1)_52
+  - first:
+      213: -5156720285483417442
+    second: Hermes2 (1)_53
+  - first:
+      213: 6391331870654673955
+    second: Hermes2 (1)_54
+  - first:
+      213: 3613094485252854862
+    second: Hermes2 (1)_55
+  - first:
+      213: 1676470930979387806
+    second: Hermes2 (1)_56
+  - first:
+      213: 1895011980987061495
+    second: Hermes2 (1)_0
+  - first:
+      213: 8837499052564734809
+    second: Hermes2 (1)_1
+  - first:
+      213: -1911928874886475212
+    second: Hermes2 (1)_2
+  - first:
+      213: 945344733983505069
+    second: Hermes2 (1)_3
+  - first:
+      213: -8976587774263210121
+    second: Hermes2 (1)_4
+  - first:
+      213: -6815865504042119181
+    second: Hermes2 (1)_5
+  - first:
+      213: -4247063619328421669
+    second: Hermes2 (1)_6
+  - first:
+      213: -3418815536582660900
+    second: Hermes2 (1)_7
+  - first:
+      213: 657992729940282391
+    second: Hermes2 (1)_8
+  - first:
+      213: 4482261953522103000
+    second: Hermes2 (1)_9
+  - first:
+      213: -2593196488933127721
+    second: Hermes2 (1)_10
+  - first:
+      213: 5738121939298046741
+    second: Hermes2 (1)_11
+  - first:
+      213: -350749266590568431
+    second: Hermes2 (1)_12
+  - first:
+      213: 3440422945635456991
+    second: Hermes2 (1)_13
+  - first:
+      213: 4443287197820373058
+    second: Hermes2 (1)_14
+  - first:
+      213: 7621570677916375007
+    second: Hermes2 (1)_15
+  - first:
+      213: -4056691522640783984
+    second: Hermes2 (1)_16
+  - first:
+      213: -3827744923636362763
+    second: Hermes2 (1)_17
+  - first:
+      213: -9087182283232126058
+    second: Hermes2 (1)_18
+  - first:
+      213: 6800859725889760914
+    second: Hermes2 (1)_19
+  - first:
+      213: -8163652193468601770
+    second: Hermes2 (1)_20
+  - first:
+      213: 2752206797030756269
+    second: Hermes2 (1)_21
+  - first:
+      213: 1117837149573377150
+    second: Hermes2 (1)_22
+  - first:
+      213: -4419144599736870026
+    second: Hermes2 (1)_23
+  - first:
+      213: 3410025575737332057
+    second: Hermes2 (1)_24
+  - first:
+      213: 2178522955865213382
+    second: Hermes2 (1)_25
+  - first:
+      213: -8147765929462760437
+    second: Hermes2 (1)_26
+  - first:
+      213: -8071914835675403878
+    second: Hermes2 (1)_27
+  - first:
+      213: 2172485484496345133
+    second: Hermes2 (1)_28
+  - first:
+      213: 5081624068188205176
+    second: Hermes2 (1)_29
+  - first:
+      213: -870941084955552432
+    second: Hermes2 (1)_30
+  - first:
+      213: -6823938493293432946
+    second: Hermes2 (1)_31
+  - first:
+      213: 7485264808180970427
+    second: Hermes2 (1)_32
+  - first:
+      213: 594629608115073993
+    second: Hermes2 (1)_33
+  - first:
+      213: -1116913502295152973
+    second: Hermes2 (1)_34
+  - first:
+      213: -6562621939028677708
+    second: Hermes2 (1)_35
+  - first:
+      213: 9166029740927771561
+    second: Hermes2 (1)_36
+  - first:
+      213: -1722216035407789361
+    second: Hermes2 (1)_37
+  - first:
+      213: 2690795740117879180
+    second: Hermes2 (1)_38
+  - first:
+      213: 339802897106736524
+    second: Hermes2 (1)_39
+  - first:
+      213: 8487846296905590836
+    second: Hermes2 (1)_40
+  - first:
+      213: -8114200083580420399
+    second: Hermes2 (1)_41
+  - first:
+      213: 3615761368337663270
+    second: Hermes2 (1)_42
+  - first:
+      213: 5744384506212101779
+    second: Hermes2 (1)_43
+  - first:
+      213: -6677079596104348188
+    second: Hermes2 (1)_44
+  - first:
+      213: 2727771659217615870
+    second: Hermes2 (1)_45
+  - first:
+      213: 5480502593947566298
+    second: Hermes2 (1)_46
+  - first:
+      213: -6298328050233859800
+    second: Hermes2 (1)_47
+  - first:
+      213: 2096022893575143929
+    second: Hermes2 (1)_48
+  - first:
+      213: -7689323628825691395
+    second: Hermes2 (1)_49
+  - first:
+      213: -4242787932687245454
+    second: Hermes2 (1)_50
+  - first:
+      213: -1081739925738140635
+    second: Hermes2 (1)_51
+  - first:
+      213: -4508542646700665649
+    second: Hermes2 (1)_52
+  - first:
+      213: -3112368765357583343
+    second: Hermes2 (1)_53
+  - first:
+      213: 7157751517934567686
+    second: Hermes2 (1)_54
+  - first:
+      213: -3432614407106142577
+    second: Hermes2 (1)_55
+  - first:
+      213: -4626300716388725898
+    second: Hermes2 (1)_56
+  - first:
+      213: -1219700927487606377
+    second: Hermes2 (1)_57
+  - first:
+      213: -5469140631451824435
+    second: Hermes2 (1)_58
+  - first:
+      213: -651230850856918415
+    second: Hermes2 (1)_59
+  - first:
+      213: -6914034784405918230
+    second: Hermes2 (1)_60
+  - first:
+      213: 4640010192205473383
+    second: Hermes2 (1)_61
+  - first:
+      213: 5919482456180506677
+    second: Hermes2 (1)_62
+  - first:
+      213: 2281017502017619653
+    second: Hermes2 (1)_63
+  - first:
+      213: 3258515902804857208
+    second: Hermes2 (1)_64
+  - first:
+      213: -7889607135946658565
+    second: Hermes2 (1)_65
+  - first:
+      213: 6177387459482418675
+    second: Hermes2 (1)_66
+  - first:
+      213: 4117172641774925768
+    second: Hermes2 (1)_67
+  - first:
+      213: 4632613403818113115
+    second: Hermes2 (1)_68
+  - first:
+      213: 1334456579495615944
+    second: Hermes2 (1)_69
+  - first:
+      213: -7758948028200409248
+    second: Hermes2 (1)_70
+  - first:
+      213: 7051278619359126279
+    second: Hermes2 (1)_71
+  - first:
+      213: -3890120148301821484
+    second: Hermes2 (1)_72
+  - first:
+      213: 9100324942888727890
+    second: Hermes2 (1)_73
+  - first:
+      213: 1363969839046636375
+    second: Hermes2 (1)_74
+  - first:
+      213: -1318245903010012287
+    second: Hermes2 (1)_75
+  - first:
+      213: -614748134494084186
+    second: Hermes2 (1)_76
+  - first:
+      213: -6188270131338377853
+    second: Hermes2 (1)_77
+  - first:
+      213: -4576899060908439708
+    second: Hermes2 (1)_78
+  - first:
+      213: 4152197429402741510
+    second: Hermes2 (1)_79
+  - first:
+      213: 5760402035449446451
+    second: Hermes2 (1)_80
+  - first:
+      213: -2483889775362436893
+    second: Hermes2 (1)_81
+  - first:
+      213: -9084434608939862409
+    second: Hermes2 (1)_82
+  - first:
+      213: 5228625395293296709
+    second: Hermes2 (1)_83
+  - first:
+      213: 5172559532539153156
+    second: Hermes2 (1)_84
+  - first:
+      213: -8923591961215102404
+    second: Hermes2 (1)_85
+  - first:
+      213: -8168073065617754177
+    second: Hermes2 (1)_86
+  - first:
+      213: -1471947055927737038
+    second: Hermes2 (1)_87
+  - first:
+      213: 2444102132310459986
+    second: Hermes2 (1)_88
+  - first:
+      213: -545539456065097308
+    second: Hermes2 (1)_89
+  - first:
+      213: -6860791896443059037
+    second: Hermes2 (1)_90
+  - first:
+      213: -4026951637557186031
+    second: Hermes2 (1)_91
+  - first:
+      213: -7929369267499708707
+    second: Hermes2 (1)_92
+  - first:
+      213: 5181379321725609444
+    second: Hermes2 (1)_93
+  - first:
+      213: 9004079417692218556
+    second: Hermes2 (1)_94
+  - first:
+      213: 6739888781351987374
+    second: Hermes2 (1)_95
+  - first:
+      213: -3496401502479856764
+    second: Hermes2 (1)_96
+  - first:
+      213: -6009121073578818093
+    second: Hermes2 (1)_97
+  - first:
+      213: 4890966579112870529
+    second: Hermes2 (1)_98
+  - first:
+      213: -5218418124250159015
+    second: Hermes2 (1)_99
+  - first:
+      213: -655793459609019681
+    second: Hermes2 (1)_100
+  - first:
+      213: 1745256245721419027
+    second: Hermes2 (1)_101
+  - first:
+      213: -4895995469012266525
+    second: Hermes2 (1)_102
+  - first:
+      213: 5575346413272152372
+    second: Hermes2 (1)_103
+  - first:
+      213: -3410466803683510308
+    second: Hermes2 (1)_104
+  - first:
+      213: 8544680106232811012
+    second: Hermes2 (1)_105
+  - first:
+      213: 3934459306536256612
+    second: Hermes2 (1)_106
+  - first:
+      213: -2510763743179340444
+    second: Hermes2 (1)_107
+  - first:
+      213: 2262797694041477635
+    second: Hermes2 (1)_108
+  - first:
+      213: -1464182120344626921
+    second: Hermes2 (1)_109
+  - first:
+      213: 7439489986186151100
+    second: Hermes2 (1)_110
+  - first:
+      213: -1616220135784487497
+    second: Hermes2 (1)_111
+  - first:
+      213: -789943140229691170
+    second: Hermes2 (1)_112
+  - first:
+      213: -6489715257199569694
+    second: Hermes2 (1)_113
+  - first:
+      213: -5811082211792997704
+    second: Hermes2 (1)_114
+  - first:
+      213: -4601703718886644725
+    second: Hermes2 (1)_115
+  - first:
+      213: -2237378333628550950
+    second: Hermes2 (1)_116
+  - first:
+      213: 2356592585412931804
+    second: Hermes2 (1)_117
+  - first:
+      213: 2359093070982286185
+    second: Hermes2 (1)_118
+  - first:
+      213: -8461839435528839117
+    second: Hermes2 (1)_119
+  - first:
+      213: 721998619327985570
+    second: Hermes2 (1)_120
+  - first:
+      213: -6810388999235115896
+    second: Hermes2 (1)_121
+  - first:
+      213: 3884038589047086059
+    second: Hermes2 (1)_122
+  - first:
+      213: 6198501662650118956
+    second: Hermes2 (1)_123
+  - first:
+      213: 1968795582359776455
+    second: Hermes2 (1)_124
+  - first:
+      213: -3924887950443994128
+    second: Hermes2 (1)_125
+  - first:
+      213: -4158633438716977864
+    second: Hermes2 (1)_126
+  - first:
+      213: -7563631998749872798
+    second: Hermes2 (1)_127
+  - first:
+      213: 9101205351427133829
+    second: Hermes2 (1)_128
+  - first:
+      213: 4000695269371167499
+    second: Hermes2 (1)_129
+  - first:
+      213: 521318360823986119
+    second: Hermes2 (1)_130
+  - first:
+      213: 4551387295207599099
+    second: Hermes2 (1)_131
+  - first:
+      213: -8531473706219511849
+    second: Hermes2 (1)_132
+  - first:
+      213: -2392564558682163807
+    second: Hermes2 (1)_133
+  - first:
+      213: 6030662826995092151
+    second: Hermes2 (1)_134
+  - first:
+      213: 8209785432637159217
+    second: Hermes2 (1)_135
+  - first:
+      213: -565400834601544288
+    second: Hermes2 (1)_136
+  - first:
+      213: 375316043666998566
+    second: Hermes2 (1)_137
+  - first:
+      213: -8798523290683798674
+    second: Hermes2 (1)_138
+  - first:
+      213: -3843366254724753637
+    second: Hermes2 (1)_139
+  - first:
+      213: -6327029614198528198
+    second: Hermes2 (1)_140
+  - first:
+      213: 8956355906340945496
+    second: Hermes2 (1)_141
+  - first:
+      213: -8767217469165257142
+    second: Hermes2 (1)_142
+  - first:
+      213: -6732183152837712401
+    second: Hermes2 (1)_143
+  - first:
+      213: 5404319748329935722
+    second: Hermes2 (1)_144
+  - first:
+      213: 7017707855026497231
+    second: Hermes2 (1)_145
+  - first:
+      213: -8558525854414240476
+    second: Hermes2 (1)_146
+  - first:
+      213: -1147419604175666435
+    second: Hermes2 (1)_147
+  - first:
+      213: 3605267741097120659
+    second: Hermes2 (1)_148
+  - first:
+      213: -740458386869331087
+    second: Hermes2 (1)_149
+  - first:
+      213: -6549043627552437342
+    second: Hermes2 (1)_150
+  - first:
+      213: -7529497365209217325
+    second: Hermes2 (1)_151
+  - first:
+      213: -6001457199458087248
+    second: Hermes2 (1)_152
+  - first:
+      213: -1822531734566300501
+    second: Hermes2 (1)_153
+  - first:
+      213: -5408580497233793732
+    second: Hermes2 (1)_154
+  - first:
+      213: 8599384251217576523
+    second: Hermes2 (1)_155
+  - first:
+      213: 2460786714860392127
+    second: Hermes2 (1)_156
+  - first:
+      213: 4424653326554016841
+    second: Hermes2 (1)_157
+  - first:
+      213: -2428410672948314822
+    second: Hermes2 (1)_158
+  - first:
+      213: 606589332257693
+    second: Hermes2 (1)_159
+  - first:
+      213: -6090780773080336800
+    second: Hermes2 (1)_160
+  - first:
+      213: 6325955036344941687
+    second: Hermes2 (1)_161
+  - first:
+      213: -4485955722778593063
+    second: Hermes2 (1)_162
+  - first:
+      213: 4902880810165346286
+    second: Hermes2 (1)_163
+  - first:
+      213: 7513561338639752013
+    second: Hermes2 (1)_164
+  - first:
+      213: -3855998593066882324
+    second: Hermes2 (1)_165
+  - first:
+      213: 5293970002997582414
+    second: Hermes2 (1)_166
+  - first:
+      213: -7805631669756338141
+    second: Hermes2 (1)_167
+  - first:
+      213: 4631331401937039308
+    second: Hermes2 (1)_168
+  - first:
+      213: -1157035465056742389
+    second: Hermes2 (1)_169
+  - first:
+      213: 6321845428565914331
+    second: Hermes2 (1)_170
+  - first:
+      213: 5246316742162074938
+    second: Hermes2 (1)_171
+  - first:
+      213: 7840936702970572588
+    second: Hermes2 (1)_172
+  - first:
+      213: -3766069139080186019
+    second: Hermes2 (1)_173
+  - first:
+      213: -8564543159193300824
+    second: Hermes2 (1)_174
+  - first:
+      213: 4377612136784162797
+    second: Hermes2 (1)_175
+  - first:
+      213: 7292472884222069678
+    second: Hermes2 (1)_176
+  - first:
+      213: -3428663954575828845
+    second: Hermes2 (1)_177
+  - first:
+      213: 8634229777794885981
+    second: Hermes2 (1)_178
+  - first:
+      213: -6211765759945531685
+    second: Hermes2 (1)_179
+  - first:
+      213: -8023539246464713523
+    second: Hermes2 (1)_180
+  - first:
+      213: 4301822359641814068
+    second: Hermes2 (1)_181
+  - first:
+      213: 3090236788732353727
+    second: Hermes2 (1)_182
+  - first:
+      213: 894509496979604893
+    second: Hermes2 (1)_183
+  - first:
+      213: -2936717837465152444
+    second: Hermes2 (1)_184
+  - first:
+      213: 7111016818697187977
+    second: Hermes2 (1)_185
+  - first:
+      213: -6284793785217331775
+    second: Hermes2 (1)_186
+  - first:
+      213: -2538015956095421202
+    second: Hermes2 (1)_187
+  - first:
+      213: 164593506986391044
+    second: Hermes2 (1)_188
+  - first:
+      213: -160268632140708563
+    second: Hermes2 (1)_189
+  - first:
+      213: -3969791818195167492
+    second: Hermes2 (1)_190
+  - first:
+      213: 6107644049900076588
+    second: Hermes2 (1)_191
+  - first:
+      213: 3092770168932270742
+    second: Hermes2 (1)_192
+  - first:
+      213: -3787444870821397988
+    second: Hermes2 (1)_193
+  - first:
+      213: -6314763913836754544
+    second: Hermes2 (1)_194
+  - first:
+      213: -1586607811189024220
+    second: Hermes2 (1)_195
+  - first:
+      213: -5128579388944518391
+    second: Hermes2 (1)_196
+  - first:
+      213: 7244330041722228403
+    second: Hermes2 (1)_197
+  - first:
+      213: -1865806774423560553
+    second: Hermes2 (1)_198
+  - first:
+      213: 9112090923819566449
+    second: Hermes2 (1)_199
+  - first:
+      213: -8881247843352569711
+    second: Hermes2 (1)_200
+  - first:
+      213: -711755945634135697
+    second: Hermes2 (1)_201
+  - first:
+      213: 5509532217412850167
+    second: Hermes2 (1)_202
+  - first:
+      213: 3789856569033415063
+    second: Hermes2 (1)_203
+  - first:
+      213: -8540166986908082026
+    second: Hermes2 (1)_204
+  - first:
+      213: 234296063972433758
+    second: Hermes2 (1)_205
+  - first:
+      213: -6115245864894814315
+    second: Hermes2 (1)_206
+  - first:
+      213: -4539859945664495665
+    second: Hermes2 (1)_207
+  - first:
+      213: -476893707243783657
+    second: Hermes2 (1)_208
+  - first:
+      213: -8990859138979243901
+    second: Hermes2 (1)_209
+  - first:
+      213: 3960525625839918082
+    second: Hermes2 (1)_210
+  - first:
+      213: -6378364464317229117
+    second: Hermes2 (1)_211
+  - first:
+      213: 1052263631735709560
+    second: Hermes2 (1)_212
+  - first:
+      213: -8291264925668651408
+    second: Hermes2 (1)_213
+  - first:
+      213: -3424550031226334154
+    second: Hermes2 (1)_214
+  - first:
+      213: 1299575294436950101
+    second: Hermes2 (1)_215
+  - first:
+      213: 1764161309941956617
+    second: Hermes2 (1)_216
+  - first:
+      213: -5622851959613920913
+    second: Hermes2 (1)_217
+  - first:
+      213: -8558080900779529254
+    second: Hermes2 (1)_218
+  - first:
+      213: 3482629783143286618
+    second: Hermes2 (1)_219
+  - first:
+      213: 7171612831648509893
+    second: Hermes2 (1)_220
+  - first:
+      213: 7016595037469349535
+    second: Hermes2 (1)_221
+  - first:
+      213: -1121721340625512998
+    second: Hermes2 (1)_222
+  - first:
+      213: -458009321450223701
+    second: Hermes2 (1)_223
+  - first:
+      213: -5405864570185266108
+    second: Hermes2 (1)_224
+  - first:
+      213: 8516305957984126908
+    second: Hermes2 (1)_225
+  - first:
+      213: -3484661427059385348
+    second: Hermes2 (1)_226
+  - first:
+      213: -6239885576253385541
+    second: Hermes2 (1)_227
+  - first:
+      213: -6944707446158172840
+    second: Hermes2 (1)_228
+  - first:
+      213: -5665745271317461689
+    second: Hermes2 (1)_229
+  - first:
+      213: 7446191054723583621
+    second: Hermes2 (1)_230
+  - first:
+      213: 6960754578332831902
+    second: Hermes2 (1)_231
+  - first:
+      213: 4432071401523732599
+    second: Hermes2 (1)_232
+  - first:
+      213: 654349117486090514
+    second: Hermes2 (1)_233
+  - first:
+      213: -369512947464299173
+    second: Hermes2 (1)_234
+  - first:
+      213: 559022536959806703
+    second: Hermes2 (1)_235
+  - first:
+      213: -1176993897597360262
+    second: Hermes2 (1)_236
+  - first:
+      213: 1181350154699015461
+    second: Hermes2 (1)_237
+  - first:
+      213: -7423419918740744883
+    second: Hermes2 (1)_238
+  - first:
+      213: -8793949327169050249
+    second: Hermes2 (1)_239
+  - first:
+      213: 4518261376287668984
+    second: Hermes2 (1)_240
+  - first:
+      213: -6648923851407967855
+    second: Hermes2 (1)_241
+  - first:
+      213: 6968083370664852327
+    second: Hermes2 (1)_242
+  - first:
+      213: -5990578136424817376
+    second: Hermes2 (1)_243
+  - first:
+      213: 8740596161428242626
+    second: Hermes2 (1)_244
+  - first:
+      213: -3020810792044852164
+    second: Hermes2 (1)_245
+  - first:
+      213: 3939872105262033570
+    second: Hermes2 (1)_246
+  - first:
+      213: 2982645014785136300
+    second: Hermes2 (1)_247
+  - first:
+      213: -8406089298921476660
+    second: Hermes2 (1)_248
+  - first:
+      213: -6183397618291115463
+    second: Hermes2 (1)_249
+  - first:
+      213: 1330220104917568081
+    second: Hermes2 (1)_250
+  - first:
+      213: 1945020914315971553
+    second: Hermes2 (1)_251
+  - first:
+      213: -8166959381713543226
+    second: Hermes2 (1)_252
+  - first:
+      213: 282043185805572421
+    second: Hermes2 (1)_253
+  - first:
+      213: 1510806892058285471
+    second: Hermes2 (1)_254
+  - first:
+      213: 8584795354926225697
+    second: Hermes2 (1)_255
+  - first:
+      213: 5791600712725924338
+    second: Hermes2 (1)_256
+  - first:
+      213: -7807243434683224063
+    second: Hermes2 (1)_257
+  - first:
+      213: 8537450924157267725
+    second: Hermes2 (1)_258
+  - first:
+      213: -6891915355746988826
+    second: Hermes2 (1)_259
+  - first:
+      213: 1071028577146117323
+    second: Hermes2 (1)_260
+  - first:
+      213: -3400397353622714447
+    second: Hermes2 (1)_261
+  - first:
+      213: 8842079796774131729
+    second: Hermes2 (1)_262
+  - first:
+      213: -2921916134056045395
+    second: Hermes2 (1)_263
+  - first:
+      213: 6373763188548523026
+    second: Hermes2 (1)_264
+  - first:
+      213: 8547115483144945851
+    second: Hermes2 (1)_265
+  - first:
+      213: -2624511276706060125
+    second: Hermes2 (1)_266
+  - first:
+      213: 5090836667625392570
+    second: Hermes2 (1)_267
+  - first:
+      213: -4079609277039949852
+    second: Hermes2 (1)_268
+  - first:
+      213: 5950064269106671325
+    second: Hermes2 (1)_269
+  - first:
+      213: -1739483665974074843
+    second: Hermes2 (1)_270
+  - first:
+      213: -5372288820389435423
+    second: Hermes2 (1)_271
+  - first:
+      213: 3219407122593315072
+    second: Hermes2 (1)_272
+  - first:
+      213: 4598440082522136988
+    second: Hermes2 (1)_273
+  - first:
+      213: 3013923818591233465
+    second: Hermes2 (1)_274
+  - first:
+      213: 6861544439871506364
+    second: Hermes2 (1)_275
+  - first:
+      213: -8404949304712670380
+    second: Hermes2 (1)_276
+  - first:
+      213: -7059189936912587106
+    second: Hermes2 (1)_277
+  - first:
+      213: -7528578907473175178
+    second: Hermes2 (1)_278
+  - first:
+      213: -2066004397440569037
+    second: Hermes2 (1)_279
+  - first:
+      213: 8137978164063603394
+    second: Hermes2 (1)_280
+  - first:
+      213: -5464738775081783145
+    second: Hermes2 (1)_281
+  - first:
+      213: -2067183854040269378
+    second: Hermes2 (1)_282
+  - first:
+      213: 5135490521230976922
+    second: Hermes2 (1)_283
+  - first:
+      213: 5108497656801426436
+    second: Hermes2 (1)_284
+  - first:
+      213: 7774261363661039994
+    second: Hermes2 (1)_285
+  - first:
+      213: 9037738622775939413
+    second: Hermes2 (1)_286
+  - first:
+      213: 8828717508137587139
+    second: Hermes2 (1)_287
+  - first:
+      213: 9076225780504908552
+    second: Hermes2 (1)_288
+  - first:
+      213: 5197040067414975548
+    second: Hermes2 (1)_289
+  - first:
+      213: -6167640858871838906
+    second: Hermes2 (1)_290
+  - first:
+      213: 8002822857936697112
+    second: Hermes2 (1)_291
+  - first:
+      213: 6906377536912558407
+    second: Hermes2 (1)_292
+  - first:
+      213: 1679488018591128780
+    second: Hermes2 (1)_293
+  - first:
+      213: 140831665476427660
+    second: Hermes2 (1)_294
+  - first:
+      213: 2875862104843790492
+    second: Hermes2 (1)_295
+  - first:
+      213: -2795657421955788615
+    second: Hermes2 (1)_296
+  - first:
+      213: -7368652140127197149
+    second: Hermes2 (1)_297
+  - first:
+      213: 1888163665347754869
+    second: Hermes2 (1)_298
+  - first:
+      213: -4132909590603202298
+    second: Hermes2 (1)_299
+  - first:
+      213: -2575881666311359821
+    second: Hermes2 (1)_300
+  - first:
+      213: 1223683996472228756
+    second: Hermes2 (1)_301
+  - first:
+      213: 4986007559775686004
+    second: Hermes2 (1)_302
+  - first:
+      213: 6952206973506591945
+    second: Hermes2 (1)_303
+  - first:
+      213: -5568748944391587618
+    second: Hermes2 (1)_304
+  - first:
+      213: 6092558146012353365
+    second: Hermes2 (1)_305
+  - first:
+      213: -8149502408856403277
+    second: Hermes2 (1)_306
+  - first:
+      213: 7329076504793308918
+    second: Hermes2 (1)_307
+  - first:
+      213: 175381983150040798
+    second: Hermes2 (1)_308
+  - first:
+      213: 8902124391208640229
+    second: Hermes2 (1)_309
+  - first:
+      213: -8027692828074213892
+    second: Hermes2 (1)_310
+  - first:
+      213: -8446389340008118218
+    second: Hermes2 (1)_311
+  - first:
+      213: -5338633032017881231
+    second: Hermes2 (1)_312
+  - first:
+      213: 3254966365628144184
+    second: Hermes2 (1)_313
+  - first:
+      213: 697885710256189110
+    second: Hermes2 (1)_314
+  - first:
+      213: 2759500813807056706
+    second: Hermes2 (1)_315
+  - first:
+      213: -2831178868097492337
+    second: Hermes2 (1)_316
+  - first:
+      213: -2763799522589565860
+    second: Hermes2 (1)_317
+  - first:
+      213: 3888781611661417624
+    second: Hermes2 (1)_318
+  - first:
+      213: 604050728315408990
+    second: Hermes2 (1)_319
+  - first:
+      213: -9039829970195665925
+    second: Hermes2 (1)_320
+  - first:
+      213: -7376619804711807352
+    second: Hermes2 (1)_321
+  - first:
+      213: -6005244778687595062
+    second: Hermes2 (1)_322
+  - first:
+      213: 7286397062152805966
+    second: Hermes2 (1)_323
+  - first:
+      213: 7416032958872870098
+    second: Hermes2 (1)_324
+  - first:
+      213: 3740820027959013288
+    second: Hermes2 (1)_325
+  - first:
+      213: 523700963586192344
+    second: Hermes2 (1)_326
+  - first:
+      213: -6608013898047909205
+    second: Hermes2 (1)_327
+  - first:
+      213: -4987271382738069700
+    second: Hermes2 (1)_328
+  - first:
+      213: -3297688079923664116
+    second: Hermes2 (1)_329
+  - first:
+      213: 1374659254844304070
+    second: Hermes2 (1)_330
+  - first:
+      213: 1341882266480867589
+    second: Hermes2 (1)_331
+  - first:
+      213: 3270820581268414294
+    second: Hermes2 (1)_332
+  - first:
+      213: -5335254696739221342
+    second: Hermes2 (1)_333
+  - first:
+      213: -2795205893246854397
+    second: Hermes2 (1)_334
+  - first:
+      213: -5688758340876868563
+    second: Hermes2 (1)_335
+  - first:
+      213: -151024315753771823
+    second: Hermes2 (1)_336
+  - first:
+      213: 9094387099579012161
+    second: Hermes2 (1)_337
+  - first:
+      213: 4549702628465290871
+    second: Hermes2 (1)_338
+  - first:
+      213: 3501882667209884376
+    second: Hermes2 (1)_339
+  - first:
+      213: 7698797878120399872
+    second: Hermes2 (1)_340
+  - first:
+      213: 693507013130603982
+    second: Hermes2 (1)_341
+  - first:
+      213: -2510223091116997656
+    second: Hermes2 (1)_342
+  - first:
+      213: 7732219869941197835
+    second: Hermes2 (1)_343
+  - first:
+      213: 9031138974967812745
+    second: Hermes2 (1)_344
+  - first:
+      213: 3492827909853367086
+    second: Hermes2 (1)_345
+  - first:
+      213: 7915089670532882307
+    second: Hermes2 (1)_346
+  - first:
+      213: -9016220759399860497
+    second: Hermes2 (1)_347
+  - first:
+      213: -2145424180985433336
+    second: Hermes2 (1)_348
+  - first:
+      213: -4161028002944437447
+    second: Hermes2 (1)_349
+  - first:
+      213: -6111699229342700133
+    second: Hermes2 (1)_350
+  - first:
+      213: -6477701760799099192
+    second: Hermes2 (1)_351
+  - first:
+      213: 5926087325436487018
+    second: Hermes2 (1)_352
+  - first:
+      213: 2959649788048748770
+    second: Hermes2 (1)_353
+  - first:
+      213: 6523790838253202780
+    second: Hermes2 (1)_354
+  - first:
+      213: -1305087287253353717
+    second: Hermes2 (1)_355
+  - first:
+      213: -3065019093384997905
+    second: Hermes2 (1)_356
+  - first:
+      213: -3741497711199387819
+    second: Hermes2 (1)_357
+  - first:
+      213: 4782915202535618722
+    second: Hermes2 (1)_358
+  - first:
+      213: -4175510251003991354
+    second: Hermes2 (1)_359
+  - first:
+      213: -9107885632124390334
+    second: Hermes2 (1)_360
+  - first:
+      213: -757550923595765831
+    second: Hermes2 (1)_361
+  - first:
+      213: 8443276394568561428
+    second: Hermes2 (1)_362
+  - first:
+      213: 1177258459065560798
+    second: Hermes2 (1)_363
+  - first:
+      213: -1298031838442451808
+    second: Hermes2 (1)_364
+  - first:
+      213: -3631614342724855509
+    second: Hermes2 (1)_365
+  - first:
+      213: -2542306089164160703
+    second: Hermes2 (1)_366
+  - first:
+      213: 7728569574905936028
+    second: Hermes2 (1)_367
+  - first:
+      213: 2821916050451672177
+    second: Hermes2 (1)_368
+  - first:
+      213: -6006814881676518714
+    second: Hermes2 (1)_369
+  - first:
+      213: -7752058466976603667
+    second: Hermes2 (1)_370
+  - first:
+      213: 7283226885850817014
+    second: Hermes2 (1)_371
+  - first:
+      213: 8743840044570035384
+    second: Hermes2 (1)_372
+  - first:
+      213: -5025655196395976329
+    second: Hermes2 (1)_373
+  - first:
+      213: -1978034401403924911
+    second: Hermes2 (1)_374
+  - first:
+      213: -2956596171838993285
+    second: Hermes2 (1)_375
+  - first:
+      213: -1552448890712051999
+    second: Hermes2 (1)_376
+  - first:
+      213: -7073697435378870512
+    second: Hermes2 (1)_377
+  - first:
+      213: -5364459429245058551
+    second: Hermes2 (1)_378
+  - first:
+      213: 4843088009966017733
+    second: Hermes2 (1)_379
+  - first:
+      213: 6098953391051156712
+    second: Hermes2 (1)_380
+  - first:
+      213: -6689498868107434064
+    second: Hermes2 (1)_381
+  - first:
+      213: -5049177998083747536
+    second: Hermes2 (1)_382
+  - first:
+      213: 7511490531572240965
+    second: Hermes2 (1)_383
+  - first:
+      213: -3806349922807730563
+    second: Hermes2 (1)_384
+  - first:
+      213: -3975026881049085666
+    second: Hermes2 (1)_385
+  - first:
+      213: -5263328521221021877
+    second: Hermes2 (1)_386
+  - first:
+      213: 8663845759263364482
+    second: Hermes2 (1)_387
+  - first:
+      213: -4714324357780625571
+    second: Hermes2 (1)_388
+  - first:
+      213: 291707523551637346
+    second: Hermes2 (1)_389
+  - first:
+      213: 3269880778440525567
+    second: Hermes2 (1)_390
+  - first:
+      213: 1889217052683151374
+    second: Hermes2 (1)_391
+  - first:
+      213: -8181660728696754175
+    second: Hermes2 (1)_392
+  - first:
+      213: 8681468251840242868
+    second: Hermes2 (1)_393
+  - first:
+      213: -8140271796466431773
+    second: Hermes2 (1)_394
+  - first:
+      213: -552796518414443926
+    second: Hermes2 (1)_395
+  - first:
+      213: 2069839241631482570
+    second: Hermes2 (1)_396
+  - first:
+      213: -6732870657455052567
+    second: Hermes2 (1)_397
+  - first:
+      213: -6667562243567636467
+    second: Hermes2 (1)_398
+  - first:
+      213: -4449032385159635873
+    second: Hermes2 (1)_399
+  - first:
+      213: 321933260975800183
+    second: Hermes2 (1)_400
+  - first:
+      213: -5155376751556322417
+    second: Hermes2 (1)_401
+  - first:
+      213: -3499514546130760596
+    second: Hermes2 (1)_402
+  - first:
+      213: -5965368939371027369
+    second: Hermes2 (1)_403
+  - first:
+      213: -1374221764221771089
+    second: Hermes2 (1)_404
+  - first:
+      213: 2400091379143613235
+    second: Hermes2 (1)_405
+  - first:
+      213: 7104999988501708653
+    second: Hermes2 (1)_406
+  - first:
+      213: -6317151510091107351
+    second: Hermes2 (1)_407
+  - first:
+      213: 5072315298973135892
+    second: Hermes2 (1)_408
+  - first:
+      213: -2140091281352360305
+    second: Hermes2 (1)_409
+  - first:
+      213: -9212554602148820259
+    second: Hermes2 (1)_410
+  - first:
+      213: 2567109866436724361
+    second: Hermes2 (1)_411
+  - first:
+      213: -3250685008805841452
+    second: Hermes2 (1)_412
+  - first:
+      213: 659328138366404332
+    second: Hermes2 (1)_413
+  - first:
+      213: -4395124486302789948
+    second: Hermes2 (1)_414
+  - first:
+      213: -8720393743730989304
+    second: Hermes2 (1)_415
+  - first:
+      213: -6745760686677780045
+    second: Hermes2 (1)_416
+  - first:
+      213: 8320814581232555563
+    second: Hermes2 (1)_417
+  - first:
+      213: 3302026544860753642
+    second: Hermes2 (1)_418
+  - first:
+      213: -6479984399068606966
+    second: Hermes2 (1)_419
+  - first:
+      213: 1263935685474859657
+    second: Hermes2 (1)_420
+  - first:
+      213: -9198068941967121447
+    second: Hermes2 (1)_421
+  - first:
+      213: 3602315911103511789
+    second: Hermes2 (1)_422
+  - first:
+      213: 5149351180159882927
+    second: Hermes2 (1)_423
+  - first:
+      213: 3793413357527926436
+    second: Hermes2 (1)_424
+  - first:
+      213: 4353192441577790783
+    second: Hermes2 (1)_425
+  - first:
+      213: 7280654269984499500
+    second: Hermes2 (1)_426
+  - first:
+      213: 8257779837979188157
+    second: Hermes2 (1)_427
+  - first:
+      213: -3546557731696098813
+    second: Hermes2 (1)_428
+  - first:
+      213: -8547471523003887771
+    second: Hermes2 (1)_429
+  - first:
+      213: 1636061550059722572
+    second: Hermes2 (1)_430
+  - first:
+      213: -2314686966531838732
+    second: Hermes2 (1)_431
+  - first:
+      213: -1135528617305708467
+    second: Hermes2 (1)_432
+  - first:
+      213: 8952085286203758857
+    second: Hermes2 (1)_433
+  - first:
+      213: -8481453981103459123
+    second: Hermes2 (1)_434
+  - first:
+      213: -5499559709735394426
+    second: Hermes2 (1)_435
+  - first:
+      213: -4037154522379892835
+    second: Hermes2 (1)_436
+  - first:
+      213: -7366574582460160618
+    second: Hermes2 (1)_437
+  - first:
+      213: -4762943784865615956
+    second: Hermes2 (1)_438
+  - first:
+      213: 774987564100323963
+    second: Hermes2 (1)_439
+  - first:
+      213: 254085599500305628
+    second: Hermes2 (1)_440
+  - first:
+      213: -6595652375855875067
+    second: Hermes2 (1)_441
+  - first:
+      213: -7220336127712137995
+    second: Hermes2 (1)_442
+  - first:
+      213: 8066325207220288838
+    second: Hermes2 (1)_443
+  - first:
+      213: -2412531917476803171
+    second: Hermes2 (1)_444
+  - first:
+      213: 3605312784260809527
+    second: Hermes2 (1)_445
+  - first:
+      213: -6960392537455272839
+    second: Hermes2 (1)_446
+  - first:
+      213: 6356102324448347771
+    second: Hermes2 (1)_447
+  - first:
+      213: 6004701602337228109
+    second: Hermes2 (1)_448
+  - first:
+      213: -7531676073615241620
+    second: Hermes2 (1)_449
+  - first:
+      213: 823975381470758656
+    second: Hermes2 (1)_450
+  - first:
+      213: -5912323436413916651
+    second: Hermes2 (1)_451
+  - first:
+      213: -3082046810928011582
+    second: Hermes2 (1)_452
+  - first:
+      213: 87740976388115662
+    second: Hermes2 (1)_453
+  - first:
+      213: 2983853146102584604
+    second: Hermes2 (1)_454
+  - first:
+      213: 2606837054984244216
+    second: Hermes2 (1)_455
+  - first:
+      213: -9217602339269914606
+    second: Hermes2 (1)_456
+  - first:
+      213: 2503690947286755130
+    second: Hermes2 (1)_457
+  - first:
+      213: 8870304587731138626
+    second: Hermes2 (1)_458
+  - first:
+      213: 2314652229351556845
+    second: Hermes2 (1)_459
+  - first:
+      213: -2692129520307998246
+    second: Hermes2 (1)_460
+  - first:
+      213: 6073248219497608129
+    second: Hermes2 (1)_461
+  - first:
+      213: -7343960020490361969
+    second: Hermes2 (1)_462
+  - first:
+      213: -1264486959145104909
+    second: Hermes2 (1)_463
+  - first:
+      213: -2689133589245479388
+    second: Hermes2 (1)_464
+  - first:
+      213: 2673104600374279884
+    second: Hermes2 (1)_465
+  - first:
+      213: 4163077819276154389
+    second: Hermes2 (1)_466
+  - first:
+      213: -9107718194657052348
+    second: Hermes2 (1)_467
+  - first:
+      213: -4274347729340513146
+    second: Hermes2 (1)_468
+  - first:
+      213: -5809232566883238245
+    second: Hermes2 (1)_469
+  - first:
+      213: 7144604007987008916
+    second: Hermes2 (1)_470
+  - first:
+      213: 7075444641357780968
+    second: Hermes2 (1)_471
+  - first:
+      213: 7639985226671452056
+    second: Hermes2 (1)_472
+  - first:
+      213: -3092065124214757513
+    second: Hermes2 (1)_473
+  - first:
+      213: 5675090138688789506
+    second: Hermes2 (1)_474
+  - first:
+      213: 6585923085717715995
+    second: Hermes2 (1)_475
+  - first:
+      213: 8282803745014260467
+    second: Hermes2 (1)_476
+  - first:
+      213: -3302289041229419768
+    second: Hermes2 (1)_477
+  - first:
+      213: 7135276753217740220
+    second: Hermes2 (1)_478
+  - first:
+      213: -3868604453676334419
+    second: Hermes2 (1)_479
+  - first:
+      213: -1881667527233308000
+    second: Hermes2 (1)_480
+  - first:
+      213: 8916152961873395617
+    second: Hermes2 (1)_481
+  - first:
+      213: -4067690044645994349
+    second: Hermes2 (1)_482
+  - first:
+      213: 5426625342966587284
+    second: Hermes2 (1)_483
+  - first:
+      213: -2620428613227177311
+    second: Hermes2 (1)_484
+  - first:
+      213: 396686493947897591
+    second: Hermes2 (1)_485
+  - first:
+      213: 2231586301873077842
+    second: Hermes2 (1)_486
+  - first:
+      213: -4860823560165021685
+    second: Hermes2 (1)_487
+  - first:
+      213: -3204026652924551949
+    second: Hermes2 (1)_488
+  - first:
+      213: -3544402366555322990
+    second: Hermes2 (1)_489
+  - first:
+      213: -9036260390856419039
+    second: Hermes2 (1)_490
+  - first:
+      213: -5006766537107170716
+    second: Hermes2 (1)_491
+  - first:
+      213: -7578460736384156355
+    second: Hermes2 (1)_492
+  - first:
+      213: -8116240897506924748
+    second: Hermes2 (1)_493
+  - first:
+      213: -6816797412584588577
+    second: Hermes2 (1)_494
+  - first:
+      213: -8874590226706779745
+    second: Hermes2 (1)_495
+  - first:
+      213: 858722647163624084
+    second: Hermes2 (1)_496
+  - first:
+      213: 8290612667601045627
+    second: Hermes2 (1)_497
+  - first:
+      213: 5183722288055059492
+    second: Hermes2 (1)_498
+  - first:
+      213: 886368121161260507
+    second: Hermes2 (1)_499
+  - first:
+      213: -7261557965699137114
+    second: Hermes2 (1)_500
+  - first:
+      213: 4090098179811574516
+    second: Hermes2 (1)_501
+  - first:
+      213: 4197854756623021139
+    second: Hermes2 (1)_502
+  - first:
+      213: 4994856750290675343
+    second: Hermes2 (1)_503
+  - first:
+      213: -3916924312750238900
+    second: Hermes2 (1)_504
+  - first:
+      213: 7813038697222103511
+    second: Hermes2 (1)_505
+  - first:
+      213: 5697030958997467020
+    second: Hermes2 (1)_506
+  - first:
+      213: -6622853121562860951
+    second: Hermes2 (1)_507
+  - first:
+      213: 9168727074261513397
+    second: Hermes2 (1)_508
+  - first:
+      213: -3036330458730600447
+    second: Hermes2 (1)_509
+  - first:
+      213: 2739361348497033049
+    second: Hermes2 (1)_510
+  - first:
+      213: -704755772947428740
+    second: Hermes2 (1)_511
+  - first:
+      213: -7814293962232846041
+    second: Hermes2 (1)_512
+  - first:
+      213: -455900132867956347
+    second: Hermes2 (1)_513
+  - first:
+      213: -689238267473358604
+    second: Hermes2 (1)_514
+  - first:
+      213: 3321636504603354174
+    second: Hermes2 (1)_515
+  - first:
+      213: 5733937528931450982
+    second: Hermes2 (1)_516
+  - first:
+      213: -4709888038009511760
+    second: Hermes2 (1)_517
+  - first:
+      213: 373740650032606505
+    second: Hermes2 (1)_518
+  - first:
+      213: 2653919756700521011
+    second: Hermes2 (1)_519
+  - first:
+      213: 9078173636984628657
+    second: Hermes2 (1)_520
+  - first:
+      213: -1129832659503101939
+    second: Hermes2 (1)_521
+  - first:
+      213: -2692028772632624969
+    second: Hermes2 (1)_522
+  - first:
+      213: -6696925989843723825
+    second: Hermes2 (1)_523
+  - first:
+      213: 3223674691378047816
+    second: Hermes2 (1)_524
+  - first:
+      213: 4515704988061877374
+    second: Hermes2 (1)_525
+  - first:
+      213: 1165473363292585132
+    second: Hermes2 (1)_526
+  - first:
+      213: -4396057886512489653
+    second: Hermes2 (1)_527
+  - first:
+      213: -2897988792678178352
+    second: Hermes2 (1)_528
+  - first:
+      213: 6342221168130464741
+    second: Hermes2 (1)_529
+  - first:
+      213: 6682356755802534449
+    second: Hermes2 (1)_530
+  - first:
+      213: -3934507243688593965
+    second: Hermes2 (1)_531
+  - first:
+      213: -8035940499450391789
+    second: Hermes2 (1)_532
+  - first:
+      213: 2445231071296398176
+    second: Hermes2 (1)_533
+  - first:
+      213: 2850067236800869385
+    second: Hermes2 (1)_534
+  - first:
+      213: -8759416174889288906
+    second: Hermes2 (1)_535
+  - first:
+      213: 399906474360072823
+    second: Hermes2 (1)_536
+  - first:
+      213: 1328960673705806404
+    second: Hermes2 (1)_537
+  - first:
+      213: -3299524632295499239
+    second: Hermes2 (1)_538
+  - first:
+      213: 5251987899542924249
+    second: Hermes2 (1)_539
+  - first:
+      213: 1284130550888984498
+    second: Hermes2 (1)_540
+  - first:
+      213: -3220635190065171597
+    second: Hermes2 (1)_541
+  - first:
+      213: -3490117653374678328
+    second: Hermes2 (1)_542
+  - first:
+      213: 5337137033474025232
+    second: Hermes2 (1)_543
+  - first:
+      213: -8117278629975132535
+    second: Hermes2 (1)_544
+  - first:
+      213: -6286112958145343142
+    second: Hermes2 (1)_545
+  - first:
+      213: 2340674127841870221
+    second: Hermes2 (1)_546
+  - first:
+      213: -4858099759673148435
+    second: Hermes2 (1)_547
+  - first:
+      213: 4304536719472022803
+    second: Hermes2 (1)_548
+  - first:
+      213: 5240634699339676903
+    second: Hermes2 (1)_549
+  - first:
+      213: 164779063163410848
+    second: Hermes2 (1)_550
+  - first:
+      213: 8475647058810362350
+    second: Hermes2 (1)_551
+  - first:
+      213: 2926340760048704756
+    second: Hermes2 (1)_552
+  - first:
+      213: -8068264963502370142
+    second: Hermes2 (1)_553
+  - first:
+      213: -9065102950790130961
+    second: Hermes2 (1)_554
+  - first:
+      213: -3693392983042917807
+    second: Hermes2 (1)_555
+  - first:
+      213: 1703622609530868030
+    second: Hermes2 (1)_556
+  - first:
+      213: 5849802700253751052
+    second: Hermes2 (1)_557
+  - first:
+      213: -7082547990467250959
+    second: Hermes2 (1)_558
+  - first:
+      213: -929048877029311762
+    second: Hermes2 (1)_559
+  - first:
+      213: 5096138558683377081
+    second: Hermes2 (1)_560
+  - first:
+      213: -7023069623323686780
+    second: Hermes2 (1)_561
+  - first:
+      213: -7374975443970419502
+    second: Hermes2 (1)_562
+  - first:
+      213: 8391037330224976089
+    second: Hermes2 (1)_563
+  - first:
+      213: 914507960209028832
+    second: Hermes2 (1)_564
+  - first:
+      213: -9182706099477948532
+    second: Hermes2 (1)_565
+  - first:
+      213: 9178106974013291315
+    second: Hermes2 (1)_566
+  - first:
+      213: 2615305547921318588
+    second: Hermes2 (1)_567
+  - first:
+      213: -980352221528325334
+    second: Hermes2 (1)_568
+  - first:
+      213: 5692542224033023815
+    second: Hermes2 (1)_569
+  - first:
+      213: 3872987314856772240
+    second: Hermes2 (1)_570
+  - first:
+      213: -3907701542007451441
+    second: Hermes2 (1)_571
+  - first:
+      213: -5031959318182309
+    second: Hermes2 (1)_572
+  - first:
+      213: 5571631283702592263
+    second: Hermes2 (1)_573
+  - first:
+      213: -4879392001557286407
+    second: Hermes2 (1)_574
+  - first:
+      213: -4709606005161993348
+    second: Hermes2 (1)_575
+  - first:
+      213: -3051738601646591083
+    second: Hermes2 (1)_576
+  - first:
+      213: 7341213404574951660
+    second: Hermes2 (1)_577
+  - first:
+      213: 8472637667381063322
+    second: Hermes2 (1)_578
+  - first:
+      213: -2658249039635201934
+    second: Hermes2 (1)_579
+  - first:
+      213: 4971414792508209584
+    second: Hermes2 (1)_580
+  - first:
+      213: -5368591953392239584
+    second: Hermes2 (1)_581
+  - first:
+      213: -1147568221775642837
+    second: Hermes2 (1)_582
+  - first:
+      213: -7529286314833073111
+    second: Hermes2 (1)_583
+  - first:
+      213: -120791972845622765
+    second: Hermes2 (1)_584
+  - first:
+      213: -8453601755946702440
+    second: Hermes2 (1)_585
+  - first:
+      213: -5729062886908602357
+    second: Hermes2 (1)_586
+  - first:
+      213: 5248587092051664721
+    second: Hermes2 (1)_587
+  - first:
+      213: -6867897793038562800
+    second: Hermes2 (1)_588
+  - first:
+      213: 2538391878154163726
+    second: Hermes2 (1)_589
+  - first:
+      213: 4471516401953503410
+    second: Hermes2 (1)_590
+  - first:
+      213: -553544670022399012
+    second: Hermes2 (1)_591
+  - first:
+      213: -3324177563699697533
+    second: Hermes2 (1)_592
+  - first:
+      213: -4733882615115104297
+    second: Hermes2 (1)_593
+  - first:
+      213: -9022837003635631933
+    second: Hermes2 (1)_594
+  - first:
+      213: 8652076323931332341
+    second: Hermes2 (1)_595
+  - first:
+      213: 3182024575566475025
+    second: Hermes2 (1)_596
+  - first:
+      213: 4599670056234759981
+    second: Hermes2 (1)_597
+  - first:
+      213: -2028830693226047741
+    second: Hermes2 (1)_598
+  - first:
+      213: -8450008987258769063
+    second: Hermes2 (1)_599
+  - first:
+      213: -2737108455495520236
+    second: Hermes2 (1)_600
+  - first:
+      213: 693559470460826965
+    second: Hermes2 (1)_601
+  - first:
+      213: 7586476734045702895
+    second: Hermes2 (1)_602
+  - first:
+      213: 7002853469801733758
+    second: Hermes2 (1)_603
+  - first:
+      213: 6789979912821969375
+    second: Hermes2 (1)_604
+  - first:
+      213: -1497666266850230776
+    second: Hermes2 (1)_605
+  - first:
+      213: -7841179662534517089
+    second: Hermes2 (1)_606
+  - first:
+      213: 2874335145893157804
+    second: Hermes2 (1)_607
+  - first:
+      213: -7138157288784143824
+    second: Hermes2 (1)_608
+  - first:
+      213: 6665567117346709225
+    second: Hermes2 (1)_609
+  - first:
+      213: 2407443683767557790
+    second: Hermes2 (1)_610
+  - first:
+      213: 1245225775141027227
+    second: Hermes2 (1)_611
+  - first:
+      213: -1745825292807763538
+    second: Hermes2 (1)_612
+  - first:
+      213: 5640710156609865487
+    second: Hermes2 (1)_613
+  - first:
+      213: 4645083492919059533
+    second: Hermes2 (1)_614
+  - first:
+      213: 3163430804250350412
+    second: Hermes2 (1)_615
+  - first:
+      213: -1946753972544647169
+    second: Hermes2 (1)_616
+  - first:
+      213: 393392092771866378
+    second: Hermes2 (1)_617
+  - first:
+      213: 5229538033385828735
+    second: Hermes2 (1)_618
+  - first:
+      213: 1472757580730151119
+    second: Hermes2 (1)_619
+  - first:
+      213: -5965273449807323716
+    second: Hermes2 (1)_620
+  - first:
+      213: -5767757160119158359
+    second: Hermes2 (1)_621
+  - first:
+      213: 4183775974771538210
+    second: Hermes2 (1)_622
+  - first:
+      213: -2737387650773903867
+    second: Hermes2 (1)_623
+  - first:
+      213: -2671824326367492575
+    second: Hermes2 (1)_624
+  - first:
+      213: 6061458726316182620
+    second: Hermes2 (1)_625
+  - first:
+      213: -2881805122877410627
+    second: Hermes2 (1)_626
+  - first:
+      213: -2973751629819847659
+    second: Hermes2 (1)_627
+  - first:
+      213: -2236233239509858069
+    second: Hermes2 (1)_628
+  - first:
+      213: -7329331271520324850
+    second: Hermes2 (1)_629
+  - first:
+      213: 3808591771627100467
+    second: Hermes2 (1)_630
+  - first:
+      213: -8658280670511212109
+    second: Hermes2 (1)_631
+  - first:
+      213: -3488007842019552584
+    second: Hermes2 (1)_632
+  - first:
+      213: -6878965502269057153
+    second: Hermes2 (1)_633
+  - first:
+      213: -8997474000708444642
+    second: Hermes2 (1)_634
+  - first:
+      213: 570239964456246294
+    second: Hermes2 (1)_635
+  - first:
+      213: 574690543245268837
+    second: Hermes2 (1)_636
+  - first:
+      213: -1104345481151159015
+    second: Hermes2 (1)_637
+  - first:
+      213: 1900867159392429890
+    second: Hermes2 (1)_638
+  - first:
+      213: 7286792783231378804
+    second: Hermes2 (1)_639
+  - first:
+      213: 5426732818057200834
+    second: Hermes2 (1)_640
+  - first:
+      213: -3877072854691572790
+    second: Hermes2 (1)_641
+  - first:
+      213: 2308544332218805561
+    second: Hermes2 (1)_642
+  - first:
+      213: -6219874648731658672
+    second: Hermes2 (1)_643
+  - first:
+      213: 1626209337536122135
+    second: Hermes2 (1)_644
+  - first:
+      213: 6157884339387832907
+    second: Hermes2 (1)_645
+  - first:
+      213: 1476990442446403299
+    second: Hermes2 (1)_646
+  - first:
+      213: 2576592004195147295
+    second: Hermes2 (1)_647
+  - first:
+      213: -2055744574652454221
+    second: Hermes2 (1)_648
+  - first:
+      213: -6546414149883619926
+    second: Hermes2 (1)_649
+  - first:
+      213: 6786101060339182671
+    second: Hermes2 (1)_650
+  - first:
+      213: 7125622534255360648
+    second: Hermes2 (1)_651
+  - first:
+      213: -2447479109978260990
+    second: Hermes2 (1)_652
+  - first:
+      213: 8095989268122293261
+    second: Hermes2 (1)_653
+  - first:
+      213: -7913435857435232826
+    second: Hermes2 (1)_654
+  - first:
+      213: -4992072739468193811
+    second: Hermes2 (1)_655
+  - first:
+      213: 5565407920067073357
+    second: Hermes2 (1)_656
+  - first:
+      213: 4815861634837687880
+    second: Hermes2 (1)_657
+  - first:
+      213: -357579329494397343
+    second: Hermes2 (1)_658
+  - first:
+      213: 4372377222183656650
+    second: Hermes2 (1)_659
+  - first:
+      213: 4146173803435389947
+    second: Hermes2 (1)_660
+  - first:
+      213: 2680275401318614002
+    second: Hermes2 (1)_661
+  - first:
+      213: 1575266528751381635
+    second: Hermes2 (1)_662
+  - first:
+      213: 8923043180793456802
+    second: Hermes2 (1)_663
+  - first:
+      213: -1580754769109260221
+    second: Hermes2 (1)_664
+  - first:
+      213: -2167629230519310734
+    second: Hermes2 (1)_665
+  - first:
+      213: -3902030910194244053
+    second: Hermes2 (1)_666
+  - first:
+      213: -2950113289060288822
+    second: Hermes2 (1)_667
+  - first:
+      213: 8109179709625125550
+    second: Hermes2 (1)_668
+  - first:
+      213: -2016043856295645253
+    second: Hermes2 (1)_669
+  - first:
+      213: -6124795926338884801
+    second: Hermes2 (1)_670
+  - first:
+      213: -4740236819745201816
+    second: Hermes2 (1)_671
+  - first:
+      213: -7157581839737766908
+    second: Hermes2 (1)_672
+  - first:
+      213: -5142109424201308705
+    second: Hermes2 (1)_673
+  - first:
+      213: -715489649881942430
+    second: Hermes2 (1)_674
+  - first:
+      213: 4304956627564422009
+    second: Hermes2 (1)_675
+  - first:
+      213: -4366018739975209554
+    second: Hermes2 (1)_676
+  - first:
+      213: -892024447473808247
+    second: Hermes2 (1)_677
+  - first:
+      213: -6761826407507324749
+    second: Hermes2 (1)_678
+  - first:
+      213: -4757709224948104411
+    second: Hermes2 (1)_679
+  - first:
+      213: 4509653785151373414
+    second: Hermes2 (1)_680
+  - first:
+      213: -7981273261313771481
+    second: Hermes2 (1)_681
+  - first:
+      213: -8345166855048965023
+    second: Hermes2 (1)_682
+  - first:
+      213: -4617926892360926422
+    second: Hermes2 (1)_683
+  - first:
+      213: 3881571683164872051
+    second: Hermes2 (1)_684
+  - first:
+      213: 47367682999994145
+    second: Hermes2 (1)_685
+  - first:
+      213: 5175105776986395250
+    second: Hermes2 (1)_686
+  - first:
+      213: -4781985621542573462
+    second: Hermes2 (1)_687
+  - first:
+      213: -6369501663944250968
+    second: Hermes2 (1)_688
+  - first:
+      213: 8283107165052662334
+    second: Hermes2 (1)_689
+  - first:
+      213: 4184992333979493864
+    second: Hermes2 (1)_690
+  - first:
+      213: -8821794704046308667
+    second: Hermes2 (1)_691
+  - first:
+      213: -4000938223094340315
+    second: Hermes2 (1)_692
+  - first:
+      213: 6232182790394710920
+    second: Hermes2 (1)_693
+  - first:
+      213: -3228797594343979973
+    second: Hermes2 (1)_694
+  - first:
+      213: 6368088928028183688
+    second: Hermes2 (1)_695
+  - first:
+      213: -3322607697729001724
+    second: Hermes2 (1)_696
+  - first:
+      213: -1574830278382104405
+    second: Hermes2 (1)_697
+  - first:
+      213: -8417246488104946535
+    second: Hermes2 (1)_698
+  - first:
+      213: -725814678283677554
+    second: Hermes2 (1)_699
+  - first:
+      213: -7042318119233020932
+    second: Hermes2 (1)_700
+  - first:
+      213: -1727139236640477745
+    second: Hermes2 (1)_701
+  - first:
+      213: -8813508130300932707
+    second: Hermes2 (1)_702
+  - first:
+      213: 3174072418745095564
+    second: Hermes2 (1)_703
+  - first:
+      213: -7800283535783657638
+    second: Hermes2 (1)_704
+  - first:
+      213: 6550435961018442714
+    second: Hermes2 (1)_705
+  - first:
+      213: 8731516320335607378
+    second: Hermes2 (1)_706
+  - first:
+      213: -7231495743348606748
+    second: Hermes2 (1)_707
+  - first:
+      213: -1980324142541184385
+    second: Hermes2 (1)_708
+  - first:
+      213: 8639860753279875670
+    second: Hermes2 (1)_709
+  - first:
+      213: -5019682405972719260
+    second: Hermes2 (1)_710
+  - first:
+      213: 1505382203772915273
+    second: Hermes2 (1)_711
+  - first:
+      213: -8429510140621193275
+    second: Hermes2 (1)_712
+  - first:
+      213: 5219238776407368413
+    second: Hermes2 (1)_713
+  - first:
+      213: -7660183152446636977
+    second: Hermes2 (1)_714
+  - first:
+      213: 1860434745583057671
+    second: Hermes2 (1)_715
+  - first:
+      213: 810484070693127052
+    second: Hermes2 (1)_716
+  - first:
+      213: -6889076181138009695
+    second: Hermes2 (1)_717
+  - first:
+      213: 8927797587237074661
+    second: Hermes2 (1)_718
+  - first:
+      213: -6734575320117798936
+    second: Hermes2 (1)_719
+  - first:
+      213: 2351433998886755209
+    second: Hermes2 (1)_720
+  - first:
+      213: 186821699279454708
+    second: Hermes2 (1)_721
+  - first:
+      213: 3547992139097325180
+    second: Hermes2 (1)_722
+  - first:
+      213: 943084491974610994
+    second: Hermes2 (1)_723
+  - first:
+      213: -1917601124636147706
+    second: Hermes2 (1)_724
+  - first:
+      213: -3968614324481539082
+    second: Hermes2 (1)_725
+  - first:
+      213: -762944425806858882
+    second: Hermes2 (1)_726
+  - first:
+      213: -7339352068754902590
+    second: Hermes2 (1)_727
+  - first:
+      213: -8394709048772724697
+    second: Hermes2 (1)_728
+  - first:
+      213: -7158350186891633240
+    second: Hermes2 (1)_729
+  - first:
+      213: -7952148506545725179
+    second: Hermes2 (1)_730
+  - first:
+      213: 1836757567619406919
+    second: Hermes2 (1)_731
+  - first:
+      213: -4516544187146164953
+    second: Hermes2 (1)_732
+  - first:
+      213: 8375200165481329210
+    second: Hermes2 (1)_733
+  - first:
+      213: 1190212672842681708
+    second: Hermes2 (1)_734
+  - first:
+      213: -6132110622025572907
+    second: Hermes2 (1)_735
+  - first:
+      213: -104971641994302005
+    second: Hermes2 (1)_736
+  - first:
+      213: 8834305588481615234
+    second: Hermes2 (1)_737
+  - first:
+      213: 3531573702139315196
+    second: Hermes2 (1)_738
+  - first:
+      213: 4067423067363833513
+    second: Hermes2 (1)_739
+  - first:
+      213: -8111943330415113047
+    second: Hermes2 (1)_740
+  - first:
+      213: 7516329708693848708
+    second: Hermes2 (1)_741
+  - first:
+      213: 2277600066816656899
+    second: Hermes2 (1)_742
+  - first:
+      213: 4253000356870597397
+    second: Hermes2 (1)_743
+  - first:
+      213: -3043986947842938678
+    second: Hermes2 (1)_744
+  - first:
+      213: 6327422271926359309
+    second: Hermes2 (1)_745
+  - first:
+      213: -4175545477763259533
+    second: Hermes2 (1)_746
+  - first:
+      213: 8838596112580490779
+    second: Hermes2 (1)_747
+  - first:
+      213: -5969405020077754073
+    second: Hermes2 (1)_748
+  - first:
+      213: -9046372613703962558
+    second: Hermes2 (1)_749
+  - first:
+      213: -1045680079359698094
+    second: Hermes2 (1)_750
+  - first:
+      213: 8679901853711264119
+    second: Hermes2 (1)_751
+  - first:
+      213: -5187114406369031113
+    second: Hermes2 (1)_752
+  - first:
+      213: -8151148027658714229
+    second: Hermes2 (1)_753
+  - first:
+      213: 8262324789550432305
+    second: Hermes2 (1)_754
+  - first:
+      213: 1148845442498387338
+    second: Hermes2 (1)_755
+  - first:
+      213: 7972821617726826643
+    second: Hermes2 (1)_756
+  - first:
+      213: 3118668312639655836
+    second: Hermes2 (1)_757
+  - first:
+      213: 677061353273289786
+    second: Hermes2 (1)_758
+  - first:
+      213: 4350462255743947796
+    second: Hermes2 (1)_759
+  - first:
+      213: -4829349671847264014
+    second: Hermes2 (1)_760
+  - first:
+      213: -6457909555659088429
+    second: Hermes2 (1)_761
+  - first:
+      213: 5765809450411291811
+    second: Hermes2 (1)_762
+  - first:
+      213: -6798157813031218374
+    second: Hermes2 (1)_763
+  - first:
+      213: 5111091919866527920
+    second: Hermes2 (1)_764
+  - first:
+      213: -8544698517037189058
+    second: Hermes2 (1)_765
+  - first:
+      213: -8268511265319988979
+    second: Hermes2 (1)_766
+  - first:
+      213: -6234046177230120577
+    second: Hermes2 (1)_767
+  - first:
+      213: 2923011060169743333
+    second: Hermes2 (1)_768
+  - first:
+      213: 1001668722795012140
+    second: Hermes2 (1)_769
+  - first:
+      213: -3595651400964380348
+    second: Hermes2 (1)_770
+  - first:
+      213: -1458493014314807793
+    second: Hermes2 (1)_771
+  - first:
+      213: -8118762907281391477
+    second: Hermes2 (1)_772
+  - first:
+      213: 8846111466486026811
+    second: Hermes2 (1)_773
+  - first:
+      213: 7574124170525424128
+    second: Hermes2 (1)_774
+  - first:
+      213: 1981132798832115568
+    second: Hermes2 (1)_775
+  - first:
+      213: 2137749076533541093
+    second: Hermes2 (1)_776
+  - first:
+      213: -2238669183473836441
+    second: Hermes2 (1)_777
+  - first:
+      213: -5819248752985337397
+    second: Hermes2 (1)_778
+  - first:
+      213: 7057980714956935215
+    second: Hermes2 (1)_779
+  - first:
+      213: -8538234907065107378
+    second: Hermes2 (1)_780
+  - first:
+      213: -2020574105633852398
+    second: Hermes2 (1)_781
+  - first:
+      213: 1383684086385316722
+    second: Hermes2 (1)_782
+  - first:
+      213: 8939566300480952901
+    second: Hermes2 (1)_783
+  - first:
+      213: 226718801832436239
+    second: Hermes2 (1)_784
+  - first:
+      213: -7924753334699188278
+    second: Hermes2 (1)_785
+  - first:
+      213: 2754359195445507030
+    second: Hermes2 (1)_786
+  - first:
+      213: -2422664087337230849
+    second: Hermes2 (1)_787
+  - first:
+      213: 4872975436767573195
+    second: Hermes2 (1)_788
+  - first:
+      213: 9128129048512070560
+    second: Hermes2 (1)_789
+  - first:
+      213: -1166013806484704660
+    second: Hermes2 (1)_790
+  - first:
+      213: -2233174528533806698
+    second: Hermes2 (1)_791
+  - first:
+      213: -7025650234266877298
+    second: Hermes2 (1)_792
+  - first:
+      213: -4371787695489533082
+    second: Hermes2 (1)_793
+  - first:
+      213: -9060747534009922017
+    second: Hermes2 (1)_794
+  - first:
+      213: 3977762346481300831
+    second: Hermes2 (1)_795
+  - first:
+      213: 5033367328929043999
+    second: Hermes2 (1)_796
+  - first:
+      213: -1209265633528992079
+    second: Hermes2 (1)_797
+  - first:
+      213: 665630580133345743
+    second: Hermes2 (1)_798
+  - first:
+      213: -4425798290796867101
+    second: Hermes2 (1)_799
+  - first:
+      213: 5470732711978058420
+    second: Hermes2 (1)_800
+  - first:
+      213: -8044669350758065444
+    second: Hermes2 (1)_801
+  - first:
+      213: -5004650579949810832
+    second: Hermes2 (1)_802
+  - first:
+      213: 7388326797514990931
+    second: Hermes2 (1)_803
+  - first:
+      213: -6385685302620544652
+    second: Hermes2 (1)_804
+  - first:
+      213: 8719976289564089510
+    second: Hermes2 (1)_805
+  - first:
+      213: -5798984902441681814
+    second: Hermes2 (1)_806
+  - first:
+      213: -7047045957226130493
+    second: Hermes2 (1)_807
+  - first:
+      213: -142340940773839857
+    second: Hermes2 (1)_808
+  - first:
+      213: 2619339098703662791
+    second: Hermes2 (1)_809
+  - first:
+      213: 6912368231926055990
+    second: Hermes2 (1)_810
+  - first:
+      213: -6986856548708150317
+    second: Hermes2 (1)_811
+  - first:
+      213: -2574289941460458494
+    second: Hermes2 (1)_812
+  - first:
+      213: -3246855021967620104
+    second: Hermes2 (1)_813
+  - first:
+      213: -7048865180241173872
+    second: Hermes2 (1)_814
+  - first:
+      213: -8565017655511818567
+    second: Hermes2 (1)_815
+  - first:
+      213: 6879070660779679529
+    second: Hermes2 (1)_816
+  - first:
+      213: -665627218501013723
+    second: Hermes2 (1)_817
+  - first:
+      213: 4804762413557264066
+    second: Hermes2 (1)_818
+  - first:
+      213: 2897313803191554059
+    second: Hermes2 (1)_819
+  - first:
+      213: 8788068555981451196
+    second: Hermes2 (1)_820
+  - first:
+      213: -5439475635563293031
+    second: Hermes2 (1)_821
+  - first:
+      213: 5189371957541343744
+    second: Hermes2 (1)_822
+  - first:
+      213: -2678476157397245126
+    second: Hermes2 (1)_823
+  - first:
+      213: 3973990234898612327
+    second: Hermes2 (1)_824
+  - first:
+      213: -7432322374987629536
+    second: Hermes2 (1)_825
+  - first:
+      213: -9075766091119022202
+    second: Hermes2 (1)_826
+  - first:
+      213: -5665279357434278614
+    second: Hermes2 (1)_827
+  - first:
+      213: -2193814015568737755
+    second: Hermes2 (1)_828
+  - first:
+      213: 6040754507992304908
+    second: Hermes2 (1)_829
+  - first:
+      213: -433560523073398799
+    second: Hermes2 (1)_830
+  - first:
+      213: 5278743074380195279
+    second: Hermes2 (1)_831
+  - first:
+      213: 772188589402108960
+    second: Hermes2 (1)_832
+  - first:
+      213: 2382067761577641003
+    second: Hermes2 (1)_833
+  - first:
+      213: -3320254875564323273
+    second: Hermes2 (1)_834
+  - first:
+      213: 3492041031508587783
+    second: Hermes2 (1)_835
+  - first:
+      213: 7479906689486872305
+    second: Hermes2 (1)_836
+  - first:
+      213: 8156384883989250888
+    second: Hermes2 (1)_837
+  - first:
+      213: 6781458075376091862
+    second: Hermes2 (1)_838
+  - first:
+      213: 6962176727908260340
+    second: Hermes2 (1)_839
+  - first:
+      213: -706060343150499433
+    second: Hermes2 (1)_840
+  - first:
+      213: -7018075871090915406
+    second: Hermes2 (1)_841
+  - first:
+      213: -5619828831689937282
+    second: Hermes2 (1)_842
+  - first:
+      213: 4590637201784081777
+    second: Hermes2 (1)_843
+  - first:
+      213: 6574562001190595140
+    second: Hermes2 (1)_844
+  - first:
+      213: 6872685028755352079
+    second: Hermes2 (1)_845
+  - first:
+      213: -7028752569879042410
+    second: Hermes2 (1)_846
+  - first:
+      213: -359735360026981977
+    second: Hermes2 (1)_847
+  - first:
+      213: -1385404716746489895
+    second: Hermes2 (1)_848
+  - first:
+      213: 1212486655843730379
+    second: Hermes2 (1)_849
+  - first:
+      213: 1920272229439474252
+    second: Hermes2 (1)_850
+  - first:
+      213: -943961025779913884
+    second: Hermes2 (1)_851
+  - first:
+      213: -8237379372228219257
+    second: Hermes2 (1)_852
+  - first:
+      213: -6956722478310702192
+    second: Hermes2 (1)_853
+  - first:
+      213: 4651284851412539884
+    second: Hermes2 (1)_854
+  - first:
+      213: -8364576446519338033
+    second: Hermes2 (1)_855
+  - first:
+      213: 2942108292590899406
+    second: Hermes2 (1)_856
+  - first:
+      213: 1708892655672200563
+    second: Hermes2 (1)_857
+  - first:
+      213: 4568662898066757362
+    second: Hermes2 (1)_858
+  - first:
+      213: 6007144811386110112
+    second: Hermes2 (1)_859
+  - first:
+      213: -172729208808680198
+    second: Hermes2 (1)_860
+  - first:
+      213: 3237835375344844313
+    second: Hermes2 (1)_861
+  - first:
+      213: -5221426782318127285
+    second: Hermes2 (1)_862
+  - first:
+      213: -2222653994997494885
+    second: Hermes2 (1)_863
+  - first:
+      213: 2498082681371430202
+    second: Hermes2 (1)_864
+  - first:
+      213: 1679794484079805828
+    second: Hermes2 (1)_865
+  - first:
+      213: -7367450806684462416
+    second: Hermes2 (1)_866
+  - first:
+      213: 8900092234342011857
+    second: Hermes2 (1)_867
+  - first:
+      213: 6194149031943640345
+    second: Hermes2 (1)_868
+  - first:
+      213: -2770191168682263650
+    second: Hermes2 (1)_869
+  - first:
+      213: -3283015209779105888
+    second: Hermes2 (1)_870
+  - first:
+      213: 6860527418747773400
+    second: Hermes2 (1)_871
+  - first:
+      213: 7854575098687829852
+    second: Hermes2 (1)_872
+  - first:
+      213: 1235926529820421320
+    second: Hermes2 (1)_873
+  - first:
+      213: -1018266096463519690
+    second: Hermes2 (1)_874
+  - first:
+      213: 7521000284866119242
+    second: Hermes2 (1)_875
+  - first:
+      213: 5991265528675516001
+    second: Hermes2 (1)_876
+  - first:
+      213: -8806419863504162305
+    second: Hermes2 (1)_877
+  - first:
+      213: -5797108835602969138
+    second: Hermes2 (1)_878
+  - first:
+      213: -559884701275906275
+    second: Hermes2 (1)_879
+  - first:
+      213: 118104068597490898
+    second: Hermes2 (1)_880
+  - first:
+      213: 8460947928645741472
+    second: Hermes2 (1)_881
+  - first:
+      213: 5431948124343084277
+    second: Hermes2 (1)_882
+  - first:
+      213: -5666825493429361650
+    second: Hermes2 (1)_883
+  - first:
+      213: -650644572534540532
+    second: Hermes2 (1)_884
+  - first:
+      213: 7075228119241405729
+    second: Hermes2 (1)_885
+  - first:
+      213: 8982361530904765880
+    second: Hermes2 (1)_886
+  - first:
+      213: -4159821183369465589
+    second: Hermes2 (1)_887
+  - first:
+      213: 7860548462190629574
+    second: Hermes2 (1)_888
+  - first:
+      213: 4154598399623874798
+    second: Hermes2 (1)_889
+  - first:
+      213: -5485614346141831464
+    second: Hermes2 (1)_890
+  - first:
+      213: -6869507212148159678
+    second: Hermes2 (1)_891
+  - first:
+      213: 6942153363795711037
+    second: Hermes2 (1)_892
+  - first:
+      213: 1312884007162538750
+    second: Hermes2 (1)_893
+  - first:
+      213: 8487763784718353169
+    second: Hermes2 (1)_894
+  - first:
+      213: -5897561195102330323
+    second: Hermes2 (1)_895
+  - first:
+      213: 3633930003404754104
+    second: Hermes2 (1)_896
+  - first:
+      213: 2016544245636939531
+    second: Hermes2 (1)_897
+  - first:
+      213: 4253655739539721600
+    second: Hermes2 (1)_898
+  - first:
+      213: -9125785452177997835
+    second: Hermes2 (1)_899
+  - first:
+      213: 976065618972154965
+    second: Hermes2 (1)_900
+  - first:
+      213: -4695741872199910660
+    second: Hermes2 (1)_901
+  - first:
+      213: -3902830070466130869
+    second: Hermes2 (1)_902
+  - first:
+      213: 1585624555914862450
+    second: Hermes2 (1)_903
+  - first:
+      213: -6323959307013127225
+    second: Hermes2 (1)_904
+  - first:
+      213: 5300404032976244698
+    second: Hermes2 (1)_905
+  - first:
+      213: 2999036653718304768
+    second: Hermes2 (1)_906
+  - first:
+      213: -30405278204824158
+    second: Hermes2 (1)_907
+  - first:
+      213: -4150913220198470272
+    second: Hermes2 (1)_908
+  - first:
+      213: -123262253067440856
+    second: Hermes2 (1)_909
+  - first:
+      213: -8874572883814346910
+    second: Hermes2 (1)_910
+  - first:
+      213: -5767526517129058094
+    second: Hermes2 (1)_911
+  - first:
+      213: -5588368240099242162
+    second: Hermes2 (1)_912
+  - first:
+      213: 4725913404142506146
+    second: Hermes2 (1)_913
+  - first:
+      213: -7270045373714913455
+    second: Hermes2 (1)_914
+  - first:
+      213: 3708060034364163451
+    second: Hermes2 (1)_915
+  - first:
+      213: -1083329561835056944
+    second: Hermes2 (1)_916
+  - first:
+      213: -7086052679210484119
+    second: Hermes2 (1)_917
+  - first:
+      213: 5239364642673577349
+    second: Hermes2 (1)_918
+  - first:
+      213: -1914165353755992552
+    second: Hermes2 (1)_919
+  - first:
+      213: -5345928068269856187
+    second: Hermes2 (1)_920
+  - first:
+      213: -2490351488541049931
+    second: Hermes2 (1)_921
+  - first:
+      213: 9029611904441122511
+    second: Hermes2 (1)_922
+  - first:
+      213: 8024197059777025635
+    second: Hermes2 (1)_923
+  - first:
+      213: 586538077665986304
+    second: Hermes2 (1)_924
+  - first:
+      213: 383308531894007863
+    second: Hermes2 (1)_925
+  - first:
+      213: -1125020496679595938
+    second: Hermes2 (1)_926
+  - first:
+      213: -5314974769186117330
+    second: Hermes2 (1)_927
+  - first:
+      213: 4659934380148978985
+    second: Hermes2 (1)_928
+  - first:
+      213: -6993300695088312397
+    second: Hermes2 (1)_929
+  - first:
+      213: -2924447963242065591
+    second: Hermes2 (1)_930
+  - first:
+      213: 2135254779813871115
+    second: Hermes2 (1)_931
+  - first:
+      213: -3217288304394969897
+    second: Hermes2 (1)_932
+  - first:
+      213: 7507262513940905955
+    second: Hermes2 (1)_933
+  - first:
+      213: 1406007082306147118
+    second: Hermes2 (1)_934
+  - first:
+      213: 1051588767952949194
+    second: Hermes2 (1)_935
+  - first:
+      213: -7637841786799863014
+    second: Hermes2 (1)_936
+  - first:
+      213: -7300503348638573092
+    second: Hermes2 (1)_937
+  - first:
+      213: -5903046643445890838
+    second: Hermes2 (1)_938
+  - first:
+      213: -5334783651983705400
+    second: Hermes2 (1)_939
+  - first:
+      213: -168994429306893261
+    second: Hermes2 (1)_940
+  - first:
+      213: -4279814483232872725
+    second: Hermes2 (1)_941
+  - first:
+      213: 8110947196096213734
+    second: Hermes2 (1)_942
+  - first:
+      213: -2019045635014466769
+    second: Hermes2 (1)_943
+  - first:
+      213: -1169372156403035052
+    second: Hermes2 (1)_944
+  - first:
+      213: 7589863607073519497
+    second: Hermes2 (1)_945
+  - first:
+      213: -6585338100784619292
+    second: Hermes2 (1)_946
+  - first:
+      213: 7088147689733354271
+    second: Hermes2 (1)_947
+  - first:
+      213: -551033458021722960
+    second: Hermes2 (1)_948
+  - first:
+      213: -3538156630583347059
+    second: Hermes2 (1)_949
+  - first:
+      213: 5206048062993991669
+    second: Hermes2 (1)_950
+  - first:
+      213: 386965161290843757
+    second: Hermes2 (1)_951
+  - first:
+      213: -3638790858568315486
+    second: Hermes2 (1)_952
+  - first:
+      213: -9222056807396138517
+    second: Hermes2 (1)_953
+  - first:
+      213: -3380198410320058444
+    second: Hermes2 (1)_954
+  - first:
+      213: -8260783916769701999
+    second: Hermes2 (1)_955
+  - first:
+      213: -8340674575368487581
+    second: Hermes2 (1)_956
+  - first:
+      213: -8364894776915149404
+    second: Hermes2 (1)_957
+  - first:
+      213: 8789367040327805479
+    second: Hermes2 (1)_958
+  - first:
+      213: 2940753989225042302
+    second: Hermes2 (1)_959
+  - first:
+      213: 8891557171776842306
+    second: Hermes2 (1)_960
+  - first:
+      213: 4165994619378141880
+    second: Hermes2 (1)_961
+  - first:
+      213: -7769052232459252603
+    second: Hermes2 (1)_962
+  - first:
+      213: -1737071902395602885
+    second: Hermes2 (1)_963
+  - first:
+      213: -3059001498003894205
+    second: Hermes2 (1)_964
+  - first:
+      213: -1327466593451454246
+    second: Hermes2 (1)_965
+  - first:
+      213: -630184509382109009
+    second: Hermes2 (1)_966
+  - first:
+      213: 3121687215807858326
+    second: Hermes2 (1)_967
+  - first:
+      213: -2512116523236545881
+    second: Hermes2 (1)_968
+  - first:
+      213: 3709344186807588316
+    second: Hermes2 (1)_969
+  - first:
+      213: 2519493939960643175
+    second: Hermes2 (1)_970
+  - first:
+      213: 2025445079563036559
+    second: Hermes2 (1)_971
+  - first:
+      213: 2743934451407980994
+    second: Hermes2 (1)_972
+  - first:
+      213: -6607759897474160939
+    second: Hermes2 (1)_973
+  - first:
+      213: -3497839262319100343
+    second: Hermes2 (1)_974
+  - first:
+      213: 2264179296154605614
+    second: Hermes2 (1)_975
+  - first:
+      213: -6946527744650132616
+    second: Hermes2 (1)_976
+  - first:
+      213: -2930135215100333905
+    second: Hermes2 (1)_977
+  - first:
+      213: -7733568784708093905
+    second: Hermes2 (1)_978
+  - first:
+      213: -605792035729017302
+    second: Hermes2 (1)_979
+  - first:
+      213: 1019805511907594192
+    second: Hermes2 (1)_980
+  - first:
+      213: 7577365537697787555
+    second: Hermes2 (1)_981
+  - first:
+      213: -2126456645385107861
+    second: Hermes2 (1)_982
+  - first:
+      213: 4230582816469743867
+    second: Hermes2 (1)_983
+  - first:
+      213: 8332444006441508152
+    second: Hermes2 (1)_984
+  - first:
+      213: 5699532528946290760
+    second: Hermes2 (1)_985
+  - first:
+      213: -8336405693988821565
+    second: Hermes2 (1)_986
+  - first:
+      213: 8062873598804439896
+    second: Hermes2 (1)_987
+  - first:
+      213: 8252793067655636384
+    second: Hermes2 (1)_988
+  - first:
+      213: 7501374162550046858
+    second: Hermes2 (1)_989
+  - first:
+      213: 61312328382393750
+    second: Hermes2 (1)_990
+  - first:
+      213: 8721457850205190126
+    second: Hermes2 (1)_991
+  - first:
+      213: -9062986055054047856
+    second: Hermes2 (1)_992
+  - first:
+      213: 3795661564075695054
+    second: Hermes2 (1)_993
+  - first:
+      213: -2028101652613091932
+    second: Hermes2 (1)_994
+  - first:
+      213: 6796024599946181974
+    second: Hermes2 (1)_995
+  - first:
+      213: -1851272547851217454
+    second: Hermes2 (1)_996
+  - first:
+      213: 7683750967909579504
+    second: Hermes2 (1)_997
+  - first:
+      213: 7950689442931622724
+    second: Hermes2 (1)_998
+  - first:
+      213: 8347312080492983931
+    second: Hermes2 (1)_999
+  - first:
+      213: -4960712644856873846
+    second: Hermes2 (1)_1000
+  - first:
+      213: 423605628241539927
+    second: Hermes2 (1)_1001
+  - first:
+      213: 4395831576594769737
+    second: Hermes2 (1)_1002
+  - first:
+      213: 1869485544124493095
+    second: Hermes2 (1)_1003
+  - first:
+      213: 8959243552644140962
+    second: Hermes2 (1)_1004
+  - first:
+      213: 5102559161549148934
+    second: Hermes2 (1)_1005
+  - first:
+      213: 5940682783651760294
+    second: Hermes2 (1)_1006
+  - first:
+      213: -2130431796700529793
+    second: Hermes2 (1)_1007
+  - first:
+      213: 4665125385358230454
+    second: Hermes2 (1)_1008
+  - first:
+      213: 5697911988519981928
+    second: Hermes2 (1)_1009
+  - first:
+      213: -8969331691295515247
+    second: Hermes2 (1)_1010
+  - first:
+      213: 5655956516222108422
+    second: Hermes2 (1)_1011
+  - first:
+      213: 7533412480084541417
+    second: Hermes2 (1)_1012
+  - first:
+      213: -3195298089782259366
+    second: Hermes2 (1)_1013
+  - first:
+      213: 5768490308305781451
+    second: Hermes2 (1)_1014
+  - first:
+      213: 5196696564858369756
+    second: Hermes2 (1)_1015
+  - first:
+      213: -941020419349274955
+    second: Hermes2 (1)_1016
+  - first:
+      213: -8887810839836328529
+    second: Hermes2 (1)_1017
+  - first:
+      213: 4235554869540797217
+    second: Hermes2 (1)_1018
+  - first:
+      213: 6415904833680662744
+    second: Hermes2 (1)_1019
+  - first:
+      213: 5603622461128396108
+    second: Hermes2 (1)_1020
+  - first:
+      213: -3736374457107406927
+    second: Hermes2 (1)_1021
+  - first:
+      213: -2575659873783195344
+    second: Hermes2 (1)_1022
+  - first:
+      213: 5565524252992948455
+    second: Hermes2 (1)_1023
+  - first:
+      213: -7089684665277142692
+    second: Hermes2 (1)_1024
+  - first:
+      213: 4651365406130685075
+    second: Hermes2 (1)_1025
+  - first:
+      213: 8015827657658396124
+    second: Hermes2 (1)_1026
+  - first:
+      213: 1706832016491360479
+    second: Hermes2 (1)_1027
+  - first:
+      213: -447282766933323644
+    second: Hermes2 (1)_1028
+  - first:
+      213: -694703846950969129
+    second: Hermes2 (1)_1029
+  - first:
+      213: -9027917489158096390
+    second: Hermes2 (1)_1030
+  - first:
+      213: -8513499208817839259
+    second: Hermes2 (1)_1031
+  - first:
+      213: -9001861072795403037
+    second: Hermes2 (1)_1032
+  - first:
+      213: 2034384531184736613
+    second: Hermes2 (1)_1033
+  - first:
+      213: -1373341809669009825
+    second: Hermes2 (1)_1034
+  - first:
+      213: -4886811888803829211
+    second: Hermes2 (1)_1035
+  - first:
+      213: -5799491478955256480
+    second: Hermes2 (1)_1036
+  - first:
+      213: 14161021373344163
+    second: Hermes2 (1)_1037
+  - first:
+      213: 5066648408695286270
+    second: Hermes2 (1)_1038
+  - first:
+      213: 4576467751518198990
+    second: Hermes2 (1)_1039
+  - first:
+      213: -3790260608563344198
+    second: Hermes2 (1)_1040
+  - first:
+      213: 5865619383793824424
+    second: Hermes2 (1)_1041
+  - first:
+      213: 3213220696498866526
+    second: Hermes2 (1)_1042
+  - first:
+      213: 8559054213278916190
+    second: Hermes2 (1)_1043
+  - first:
+      213: 4985117275928650734
+    second: Hermes2 (1)_1044
+  - first:
+      213: -7567358609225493821
+    second: Hermes2 (1)_1045
+  - first:
+      213: -2508482299262644823
+    second: Hermes2 (1)_1046
+  - first:
+      213: 3440477268897811586
+    second: Hermes2 (1)_1047
+  - first:
+      213: -2212830911640119831
+    second: Hermes2 (1)_1048
+  - first:
+      213: -2663720327978087584
+    second: Hermes2 (1)_1049
+  - first:
+      213: -8026822511932717577
+    second: Hermes2 (1)_1050
+  - first:
+      213: 8850874273167498023
+    second: Hermes2 (1)_1051
+  - first:
+      213: 5264969874688748785
+    second: Hermes2 (1)_1052
+  - first:
+      213: 6988470408186259952
+    second: Hermes2 (1)_1053
+  - first:
+      213: -4503295222768313899
+    second: Hermes2 (1)_1054
+  - first:
+      213: 5197171121430240430
+    second: Hermes2 (1)_1055
+  - first:
+      213: 915096550202816860
+    second: Hermes2 (1)_1056
+  - first:
+      213: -8492395823738153907
+    second: Hermes2 (1)_1057
+  - first:
+      213: -4974639957670064808
+    second: Hermes2 (1)_1058
+  - first:
+      213: -5403842015147175827
+    second: Hermes2 (1)_1059
+  - first:
+      213: 536124758381733078
+    second: Hermes2 (1)_1060
+  - first:
+      213: -2748973678229915566
+    second: Hermes2 (1)_1061
+  - first:
+      213: 7111690099957724507
+    second: Hermes2 (1)_1062
+  - first:
+      213: -3875963447233122280
+    second: Hermes2 (1)_1063
+  - first:
+      213: 6395026235676003616
+    second: Hermes2 (1)_1064
+  - first:
+      213: 730548521756555804
+    second: Hermes2 (1)_1065
+  - first:
+      213: 2438184762694889434
+    second: Hermes2 (1)_1066
+  - first:
+      213: -5092727878823506442
+    second: Hermes2 (1)_1067
+  - first:
+      213: 96217444018077401
+    second: Hermes2 (1)_1068
+  - first:
+      213: 364610990581476191
+    second: Hermes2 (1)_1069
+  - first:
+      213: 5048039322749774611
+    second: Hermes2 (1)_1070
+  - first:
+      213: 1816001472979625554
+    second: Hermes2 (1)_1071
+  - first:
+      213: -1552502862992389743
+    second: Hermes2 (1)_1072
+  - first:
+      213: -2002314283307261357
+    second: Hermes2 (1)_1073
+  - first:
+      213: 2760463610369525739
+    second: Hermes2 (1)_1074
+  - first:
+      213: 686733179096085368
+    second: Hermes2 (1)_1075
+  - first:
+      213: 5980285974611936167
+    second: Hermes2 (1)_1076
+  - first:
+      213: -9123218066468829326
+    second: Hermes2 (1)_1077
+  - first:
+      213: 36554773193473910
+    second: Hermes2 (1)_1078
+  - first:
+      213: -8367261903580537806
+    second: Hermes2 (1)_1079
+  - first:
+      213: -988746995892601410
+    second: Hermes2 (1)_1080
+  - first:
+      213: -6015631910298449782
+    second: Hermes2 (1)_1081
+  - first:
+      213: -8072378673490272593
+    second: Hermes2 (1)_1082
+  - first:
+      213: -6719754859713974461
+    second: Hermes2 (1)_1083
+  - first:
+      213: -3010738296431872524
+    second: Hermes2 (1)_1084
+  - first:
+      213: -6209528721576037116
+    second: Hermes2 (1)_1085
+  - first:
+      213: -4853124298465308311
+    second: Hermes2 (1)_1086
+  - first:
+      213: -6948566306286748851
+    second: Hermes2 (1)_1087
+  - first:
+      213: -937341014201812410
+    second: Hermes2 (1)_1088
+  - first:
+      213: 6242217776924335968
+    second: Hermes2 (1)_1089
+  - first:
+      213: 5915311323201218350
+    second: Hermes2 (1)_1090
+  - first:
+      213: 7336587918744264930
+    second: Hermes2 (1)_1091
+  - first:
+      213: 6827410353108864438
+    second: Hermes2 (1)_1092
+  - first:
+      213: 3026424229213897290
+    second: Hermes2 (1)_1093
+  - first:
+      213: 5132808888032582049
+    second: Hermes2 (1)_1094
+  - first:
+      213: 7269290510190105564
+    second: Hermes2 (1)_1095
+  - first:
+      213: -6872248580846795404
+    second: Hermes2 (1)_1096
+  - first:
+      213: 7982879902160915785
+    second: Hermes2 (1)_1097
+  - first:
+      213: 1648049675064663539
+    second: Hermes2 (1)_1098
+  - first:
+      213: 6299232366345048057
+    second: Hermes2 (1)_1099
+  - first:
+      213: 3348287937963591803
+    second: Hermes2 (1)_1100
+  - first:
+      213: -7100555725510826766
+    second: Hermes2 (1)_1101
+  - first:
+      213: 8286337951705510438
+    second: Hermes2 (1)_1102
+  - first:
+      213: -5819258394832551713
+    second: Hermes2 (1)_1103
+  - first:
+      213: 99022634461992057
+    second: Hermes2 (1)_1104
+  - first:
+      213: -3371814044467679740
+    second: Hermes2 (1)_1105
+  - first:
+      213: 306164535934834879
+    second: Hermes2 (1)_1106
+  - first:
+      213: -4602850044353692649
+    second: Hermes2 (1)_1107
+  - first:
+      213: 4178111290808564978
+    second: Hermes2 (1)_1108
+  - first:
+      213: 656965481553489870
+    second: Hermes2 (1)_1109
+  - first:
+      213: 5360397756778685546
+    second: Hermes2 (1)_1110
+  - first:
+      213: -8109526902409531876
+    second: Hermes2 (1)_1111
+  - first:
+      213: -1611654617076090931
+    second: Hermes2 (1)_1112
+  - first:
+      213: 21780702626765993
+    second: Hermes2 (1)_1113
+  - first:
+      213: 295307016866502107
+    second: Hermes2 (1)_1114
+  - first:
+      213: 664071639983031977
+    second: Hermes2 (1)_1115
+  - first:
+      213: -2848360509757242219
+    second: Hermes2 (1)_1116
+  - first:
+      213: 8090380257051085579
+    second: Hermes2 (1)_1117
+  - first:
+      213: 4739780317066672950
+    second: Hermes2 (1)_1118
+  - first:
+      213: -5325885990070208317
+    second: Hermes2 (1)_1119
+  - first:
+      213: -8150980425659958019
+    second: Hermes2 (1)_1120
+  - first:
+      213: 3525774308042088546
+    second: Hermes2 (1)_1121
+  - first:
+      213: -2527741361536731890
+    second: Hermes2 (1)_1122
+  - first:
+      213: -9007311137579197022
+    second: Hermes2 (1)_1123
+  - first:
+      213: -3930278302265784969
+    second: Hermes2 (1)_1124
+  - first:
+      213: 7897741032907712281
+    second: Hermes2 (1)_1125
+  - first:
+      213: 2457841262090992181
+    second: Hermes2 (1)_1126
+  - first:
+      213: 7244455024179743605
+    second: Hermes2 (1)_1127
+  - first:
+      213: -1086270865831018578
+    second: Hermes2 (1)_1128
+  - first:
+      213: -8747012286834406198
+    second: Hermes2 (1)_1129
+  - first:
+      213: -6700369583524584974
+    second: Hermes2 (1)_1130
+  - first:
+      213: -2274615308431940889
+    second: Hermes2 (1)_1131
+  - first:
+      213: 7165199859258555624
+    second: Hermes2 (1)_1132
+  - first:
+      213: 7019810662742232702
+    second: Hermes2 (1)_1133
+  - first:
+      213: -3452136669209773552
+    second: Hermes2 (1)_1134
+  - first:
+      213: 6833248225325479834
+    second: Hermes2 (1)_1135
+  - first:
+      213: 5711036236776741391
+    second: Hermes2 (1)_1136
+  - first:
+      213: -5999452392112571974
+    second: Hermes2 (1)_1137
+  - first:
+      213: 7662965438652830631
+    second: Hermes2 (1)_1138
+  - first:
+      213: 2780206990709564548
+    second: Hermes2 (1)_1139
+  - first:
+      213: -566840055167770874
+    second: Hermes2 (1)_1140
+  - first:
+      213: 1586863821216792764
+    second: Hermes2 (1)_1141
+  - first:
+      213: 5658177269895105550
+    second: Hermes2 (1)_1142
+  - first:
+      213: 6322149240845373918
+    second: Hermes2 (1)_1143
+  - first:
+      213: -8051294997819509205
+    second: Hermes2 (1)_1144
+  - first:
+      213: -6021437531334241957
+    second: Hermes2 (1)_1145
+  - first:
+      213: -3361942800924756232
+    second: Hermes2 (1)_1146
+  - first:
+      213: -5785491243451049197
+    second: Hermes2 (1)_1147
+  - first:
+      213: 7507816099196014938
+    second: Hermes2 (1)_1148
+  - first:
+      213: 3772429711570780175
+    second: Hermes2 (1)_1149
+  - first:
+      213: 4699922843219508274
+    second: Hermes2 (1)_1150
+  - first:
+      213: 1729472750842142325
+    second: Hermes2 (1)_1151
+  - first:
+      213: -2867160074604377692
+    second: Hermes2 (1)_1152
+  - first:
+      213: 4754450142199943099
+    second: Hermes2 (1)_1153
+  - first:
+      213: -6996338182858592871
+    second: Hermes2 (1)_1154
+  - first:
+      213: 7954683982740912607
+    second: Hermes2 (1)_1155
+  - first:
+      213: 1144561200516071395
+    second: Hermes2 (1)_1156
+  - first:
+      213: 6280940238023154211
+    second: Hermes2 (1)_1157
+  - first:
+      213: -357472738176506169
+    second: Hermes2 (1)_1158
+  - first:
+      213: -4198657536078112346
+    second: Hermes2 (1)_1159
+  - first:
+      213: -7121749996350601504
+    second: Hermes2 (1)_1160
+  - first:
+      213: 7252464135184922632
+    second: Hermes2 (1)_1161
+  - first:
+      213: 3763131982437068298
+    second: Hermes2 (1)_1162
+  - first:
+      213: 3585753987211727369
+    second: Hermes2 (1)_1163
+  - first:
+      213: 3711225914485126232
+    second: Hermes2 (1)_1164
+  - first:
+      213: 4456415182719499913
+    second: Hermes2 (1)_1165
+  - first:
+      213: 7467343214926547271
+    second: Hermes2 (1)_1166
+  - first:
+      213: 1049952385075277347
+    second: Hermes2 (1)_1167
+  - first:
+      213: 4517487325122277699
+    second: Hermes2 (1)_1168
+  - first:
+      213: -8290087512631430486
+    second: Hermes2 (1)_1169
+  - first:
+      213: 2238612462383626698
+    second: Hermes2 (1)_1170
+  - first:
+      213: -1762069581048916095
+    second: Hermes2 (1)_1171
+  - first:
+      213: -5344887251151802905
+    second: Hermes2 (1)_1172
+  - first:
+      213: -5887253444160843473
+    second: Hermes2 (1)_1173
+  - first:
+      213: 7480321421024137518
+    second: Hermes2 (1)_1174
+  - first:
+      213: -98781358122935618
+    second: Hermes2 (1)_1175
+  - first:
+      213: -7490455383955390409
+    second: Hermes2 (1)_1176
+  - first:
+      213: -5747442259078258780
+    second: Hermes2 (1)_1177
+  - first:
+      213: -1619538292308670587
+    second: Hermes2 (1)_1178
+  - first:
+      213: -3737595439397843632
+    second: Hermes2 (1)_1179
+  - first:
+      213: -805884273798801065
+    second: Hermes2 (1)_1180
+  - first:
+      213: -6361748004826212756
+    second: Hermes2 (1)_1181
+  - first:
+      213: 8952939137899352164
+    second: Hermes2 (1)_1182
+  - first:
+      213: 4251211968557104873
+    second: Hermes2 (1)_1183
+  - first:
+      213: 1890175404086300444
+    second: Hermes2 (1)_1184
+  - first:
+      213: -1594389834975110047
+    second: Hermes2 (1)_1185
+  - first:
+      213: -5287739757857190314
+    second: Hermes2 (1)_1186
+  - first:
+      213: 1528020792382003560
+    second: Hermes2 (1)_1187
+  - first:
+      213: -7732824248037668535
+    second: Hermes2 (1)_1188
+  - first:
+      213: 7350688762622142563
+    second: Hermes2 (1)_1189
+  - first:
+      213: 1292680485209096187
+    second: Hermes2 (1)_1190
+  - first:
+      213: 4253768664384346290
+    second: Hermes2 (1)_1191
+  - first:
+      213: -319768048340589597
+    second: Hermes2 (1)_1192
+  - first:
+      213: 5725146055475049258
+    second: Hermes2 (1)_1193
+  - first:
+      213: -7507277137792398206
+    second: Hermes2 (1)_1194
+  - first:
+      213: 3937920004356087572
+    second: Hermes2 (1)_1195
+  - first:
+      213: 7247174227827970703
+    second: Hermes2 (1)_1196
+  - first:
+      213: 969437908033763980
+    second: Hermes2 (1)_1197
+  - first:
+      213: 1767613107431549191
+    second: Hermes2 (1)_1198
+  - first:
+      213: -6211369795017248578
+    second: Hermes2 (1)_1199
+  - first:
+      213: 6247581820373527121
+    second: Hermes2 (1)_1200
+  - first:
+      213: 1483943927969083500
+    second: Hermes2 (1)_1201
+  - first:
+      213: 421721944770352564
+    second: Hermes2 (1)_1202
+  - first:
+      213: -6511900668335966578
+    second: Hermes2 (1)_1203
+  - first:
+      213: -6884830398893805830
+    second: Hermes2 (1)_1204
+  - first:
+      213: -7842542197865449053
+    second: Hermes2 (1)_1205
+  - first:
+      213: 177114048975092213
+    second: Hermes2 (1)_1206
+  - first:
+      213: -8592892835942963925
+    second: Hermes2 (1)_1207
+  - first:
+      213: 163064027110736280
+    second: Hermes2 (1)_1208
+  - first:
+      213: 4897917546467392711
+    second: Hermes2 (1)_1209
+  - first:
+      213: -5588289507623218968
+    second: Hermes2 (1)_1210
+  - first:
+      213: 3825343032768053971
+    second: Hermes2 (1)_1211
+  - first:
+      213: 1462098510564769891
+    second: Hermes2 (1)_1212
+  - first:
+      213: -338902079667174930
+    second: Hermes2 (1)_1213
+  - first:
+      213: -1381173802688755648
+    second: Hermes2 (1)_1214
+  - first:
+      213: -8584995610569466111
+    second: Hermes2 (1)_1215
+  - first:
+      213: 2537557692238104416
+    second: Hermes2 (1)_1216
+  - first:
+      213: 3389781150203333478
+    second: Hermes2 (1)_1217
+  - first:
+      213: -3905066415770983138
+    second: Hermes2 (1)_1218
+  - first:
+      213: -1404648836308237014
+    second: Hermes2 (1)_1219
+  - first:
+      213: 1912785767039687308
+    second: Hermes2 (1)_1220
+  - first:
+      213: 7850939319086784782
+    second: Hermes2 (1)_1221
+  - first:
+      213: 8050368532733818823
+    second: Hermes2 (1)_1222
+  - first:
+      213: -7727892403015771763
+    second: Hermes2 (1)_1223
+  - first:
+      213: -3823454277225216880
+    second: Hermes2 (1)_1224
+  - first:
+      213: -7786197539579046528
+    second: Hermes2 (1)_1225
+  - first:
+      213: -8465783029862929707
+    second: Hermes2 (1)_1226
+  - first:
+      213: 6831757680547250862
+    second: Hermes2 (1)_1227
+  - first:
+      213: 5837495136348443012
+    second: Hermes2 (1)_1228
+  - first:
+      213: -7182612226272462982
+    second: Hermes2 (1)_1229
+  - first:
+      213: -7243918940454625347
+    second: Hermes2 (1)_1230
+  - first:
+      213: -2125622064876465001
+    second: Hermes2 (1)_1231
+  - first:
+      213: -7158204278279153631
+    second: Hermes2 (1)_1232
+  - first:
+      213: -4981722964227404129
+    second: Hermes2 (1)_1233
+  - first:
+      213: -6775275537714347237
+    second: Hermes2 (1)_1234
+  - first:
+      213: 2122229702015648130
+    second: Hermes2 (1)_1235
+  - first:
+      213: -5367194304053205535
+    second: Hermes2 (1)_1236
+  - first:
+      213: 2357401834152464855
+    second: Hermes2 (1)_1237
+  - first:
+      213: 4475624118163486342
+    second: Hermes2 (1)_1238
+  - first:
+      213: 6689159557871366896
+    second: Hermes2 (1)_1239
+  - first:
+      213: -8085523855466293386
+    second: Hermes2 (1)_1240
+  - first:
+      213: -5094155740237589226
+    second: Hermes2 (1)_1241
+  - first:
+      213: -3395103689043980460
+    second: Hermes2 (1)_1242
+  - first:
+      213: -1143470159410729158
+    second: Hermes2 (1)_1243
+  - first:
+      213: -6477770582064364121
+    second: Hermes2 (1)_1244
+  - first:
+      213: -7897561575759111548
+    second: Hermes2 (1)_1245
+  - first:
+      213: 3241839929054230799
+    second: Hermes2 (1)_1246
+  - first:
+      213: 6433058923696377127
+    second: Hermes2 (1)_1247
+  - first:
+      213: -854314253391680704
+    second: Hermes2 (1)_1248
+  - first:
+      213: 7684310830761202946
+    second: Hermes2 (1)_1249
+  - first:
+      213: 4808631709432865660
+    second: Hermes2 (1)_1250
+  - first:
+      213: 7318310356340724399
+    second: Hermes2 (1)_1251
+  - first:
+      213: 7772475493425825643
+    second: Hermes2 (1)_1252
+  - first:
+      213: -4241829466297880687
+    second: Hermes2 (1)_1253
+  - first:
+      213: 8260144202662017687
+    second: Hermes2 (1)_1254
+  - first:
+      213: -685415573252561156
+    second: Hermes2 (1)_1255
+  - first:
+      213: -3732052334736794481
+    second: Hermes2 (1)_1256
+  - first:
+      213: 6826078043677987739
+    second: Hermes2 (1)_1257
+  - first:
+      213: 8533453753935733245
+    second: Hermes2 (1)_1258
+  - first:
+      213: -1267818759903594242
+    second: Hermes2 (1)_1259
+  - first:
+      213: 8416619304014014251
+    second: Hermes2 (1)_1260
+  - first:
+      213: -6540777364623264012
+    second: Hermes2 (1)_1261
+  - first:
+      213: 795752183148064776
+    second: Hermes2 (1)_1262
+  - first:
+      213: -5276074944219652438
+    second: Hermes2 (1)_1263
+  - first:
+      213: 8949190345601529977
+    second: Hermes2 (1)_1264
+  - first:
+      213: 9194646794198525245
+    second: Hermes2 (1)_1265
+  - first:
+      213: -2334673546716283688
+    second: Hermes2 (1)_1266
+  - first:
+      213: 3236604695056985134
+    second: Hermes2 (1)_1267
+  - first:
+      213: 7290466331905078556
+    second: Hermes2 (1)_1268
+  - first:
+      213: -5985613013198215358
+    second: Hermes2 (1)_1269
+  - first:
+      213: 1122914409666188363
+    second: Hermes2 (1)_1270
+  - first:
+      213: -8894821842642537935
+    second: Hermes2 (1)_1271
+  - first:
+      213: 5280822388621305643
+    second: Hermes2 (1)_1272
+  - first:
+      213: -3703410133231884309
+    second: Hermes2 (1)_1273
+  - first:
+      213: 3911171364800113974
+    second: Hermes2 (1)_1274
+  - first:
+      213: 8439817437795939087
+    second: Hermes2 (1)_1275
+  - first:
+      213: -4732135453374013599
+    second: Hermes2 (1)_1276
+  - first:
+      213: 5791977264009141324
+    second: Hermes2 (1)_1277
+  - first:
+      213: -6733673189796260087
+    second: Hermes2 (1)_1278
+  - first:
+      213: 4382142049136319678
+    second: Hermes2 (1)_1279
+  - first:
+      213: 2384437189700579976
+    second: Hermes2 (1)_1280
+  - first:
+      213: -5505019417152806583
+    second: Hermes2 (1)_1281
+  - first:
+      213: 4210737094150308188
+    second: Hermes2 (1)_1282
+  - first:
+      213: -4452776935739529503
+    second: Hermes2 (1)_1283
+  - first:
+      213: 8479746507435118525
+    second: Hermes2 (1)_1284
+  - first:
+      213: 893964444267444938
+    second: Hermes2 (1)_1285
+  - first:
+      213: 1526894027674746168
+    second: Hermes2 (1)_1286
+  - first:
+      213: -4670043249308096657
+    second: Hermes2 (1)_1287
+  - first:
+      213: 2594453245989005849
+    second: Hermes2 (1)_1288
+  - first:
+      213: 5247166388255021079
+    second: Hermes2 (1)_1289
+  - first:
+      213: -3052894709000920629
+    second: Hermes2 (1)_1290
+  - first:
+      213: 6565309733983953527
+    second: Hermes2 (1)_1291
+  - first:
+      213: -1657442091921346312
+    second: Hermes2 (1)_1292
+  - first:
+      213: 5370537120447183583
+    second: Hermes2 (1)_1293
+  - first:
+      213: 2737524419782536606
+    second: Hermes2 (1)_1294
+  - first:
+      213: -7769438445255495522
+    second: Hermes2 (1)_1295
+  - first:
+      213: 5137600252157902020
+    second: Hermes2 (1)_1296
+  - first:
+      213: -965685349952408882
+    second: Hermes2 (1)_1297
+  - first:
+      213: -9095068923485100202
+    second: Hermes2 (1)_1298
+  - first:
+      213: -4698002089071512435
+    second: Hermes2 (1)_1299
+  - first:
+      213: -6601496570248450426
+    second: Hermes2 (1)_1300
+  - first:
+      213: 6819304141672749818
+    second: Hermes2 (1)_1301
+  - first:
+      213: 5084859226870504170
+    second: Hermes2 (1)_1302
+  - first:
+      213: -579314810364199509
+    second: Hermes2 (1)_1303
+  - first:
+      213: -7451493098117055039
+    second: Hermes2 (1)_1304
+  - first:
+      213: -4167894744018005388
+    second: Hermes2 (1)_1305
+  - first:
+      213: -4733239054207633143
+    second: Hermes2 (1)_1306
+  - first:
+      213: -693577530879229134
+    second: Hermes2 (1)_1307
+  - first:
+      213: 8247358224652704107
+    second: Hermes2 (1)_1308
+  - first:
+      213: 8938423977995180930
+    second: Hermes2 (1)_1309
+  - first:
+      213: 2207019120939881454
+    second: Hermes2 (1)_1310
+  - first:
+      213: 2689988705010150597
+    second: Hermes2 (1)_1311
+  - first:
+      213: -8713006871407521641
+    second: Hermes2 (1)_1312
+  - first:
+      213: -1757464551154531092
+    second: Hermes2 (1)_1313
+  - first:
+      213: 6692898111649935402
+    second: Hermes2 (1)_1314
+  - first:
+      213: -7399220853428797889
+    second: Hermes2 (1)_1315
+  - first:
+      213: 5058840793971391928
+    second: Hermes2 (1)_1316
+  - first:
+      213: 7169958544309251683
+    second: Hermes2 (1)_1317
+  - first:
+      213: 710714222458142297
+    second: Hermes2 (1)_1318
+  - first:
+      213: -7077982164334530268
+    second: Hermes2 (1)_1319
+  - first:
+      213: -5182046328650858556
+    second: Hermes2 (1)_1320
+  - first:
+      213: 1180388021394962203
+    second: Hermes2 (1)_1321
+  - first:
+      213: 3220981062560440859
+    second: Hermes2 (1)_1322
+  - first:
+      213: -4434493695313836275
+    second: Hermes2 (1)_1323
+  - first:
+      213: -4710177366239255785
+    second: Hermes2 (1)_1324
+  - first:
+      213: -1167272586620027252
+    second: Hermes2 (1)_1325
+  - first:
+      213: 3789405403112292891
+    second: Hermes2 (1)_1326
+  - first:
+      213: 7025983276800467759
+    second: Hermes2 (1)_1327
+  - first:
+      213: -594717090639115370
+    second: Hermes2 (1)_1328
+  - first:
+      213: -5064505460966983041
+    second: Hermes2 (1)_1329
+  - first:
+      213: -7178419943542688093
+    second: Hermes2 (1)_1330
+  - first:
+      213: 4628443105267748812
+    second: Hermes2 (1)_1331
+  - first:
+      213: -4941124623783920208
+    second: Hermes2 (1)_1332
+  - first:
+      213: 8778771058003183509
+    second: Hermes2 (1)_1333
+  - first:
+      213: 3254478567030246419
+    second: Hermes2 (1)_1334
+  - first:
+      213: -6479123200949788972
+    second: Hermes2 (1)_1335
+  - first:
+      213: 617681577858616899
+    second: Hermes2 (1)_1336
+  - first:
+      213: 8514576811080232948
+    second: Hermes2 (1)_1337
+  - first:
+      213: 4005601304070169156
+    second: Hermes2 (1)_1338
+  - first:
+      213: -1381727829099028447
+    second: Hermes2 (1)_1339
+  - first:
+      213: -7528415686349759517
+    second: Hermes2 (1)_1340
+  - first:
+      213: -8167811661183417378
+    second: Hermes2 (1)_1341
+  - first:
+      213: 4525938046946971992
+    second: Hermes2 (1)_1342
+  - first:
+      213: 3716822832505856430
+    second: Hermes2 (1)_1343
+  - first:
+      213: 5390959818900130045
+    second: Hermes2 (1)_1344
+  - first:
+      213: 1908999079951443201
+    second: Hermes2 (1)_1345
+  - first:
+      213: -8982349910285754765
+    second: Hermes2 (1)_1346
+  - first:
+      213: 8615266264380934687
+    second: Hermes2 (1)_1347
+  - first:
+      213: 7903523646624290128
+    second: Hermes2 (1)_1348
+  - first:
+      213: 3906058729870064343
+    second: Hermes2 (1)_1349
+  - first:
+      213: 4037445606557649969
+    second: Hermes2 (1)_1350
+  - first:
+      213: 1487652816072820529
+    second: Hermes2 (1)_1351
+  - first:
+      213: -7712936119131637702
+    second: Hermes2 (1)_1352
+  - first:
+      213: -156265089024567150
+    second: Hermes2 (1)_1353
+  - first:
+      213: 2791221315383938289
+    second: Hermes2 (1)_1354
+  - first:
+      213: 128952452798185056
+    second: Hermes2 (1)_1355
+  - first:
+      213: -8612481020664030914
+    second: Hermes2 (1)_1356
+  - first:
+      213: 4721964266011127793
+    second: Hermes2 (1)_1357
+  - first:
+      213: -1632141407269668037
+    second: Hermes2 (1)_1358
+  - first:
+      213: 2850578861506392727
+    second: Hermes2 (1)_1359
+  - first:
+      213: 2415568006816784198
+    second: Hermes2 (1)_1360
+  - first:
+      213: 4660003074453994685
+    second: Hermes2 (1)_1361
+  - first:
+      213: -327051200589548032
+    second: Hermes2 (1)_1362
+  - first:
+      213: -2691555133242665071
+    second: Hermes2 (1)_1363
+  - first:
+      213: -3981016951850700313
+    second: Hermes2 (1)_1364
+  - first:
+      213: -8712903845167987427
+    second: Hermes2 (1)_1365
+  - first:
+      213: 5017398148842939558
+    second: Hermes2 (1)_1366
+  - first:
+      213: -7417593951580117853
+    second: Hermes2 (1)_1367
+  - first:
+      213: -7746942845602364246
+    second: Hermes2 (1)_1368
+  - first:
+      213: 2877952215551848960
+    second: Hermes2 (1)_1369
+  - first:
+      213: 7271344792504757129
+    second: Hermes2 (1)_1370
+  - first:
+      213: 4054971503672561566
+    second: Hermes2 (1)_1371
+  - first:
+      213: -2474421688261546485
+    second: Hermes2 (1)_1372
+  - first:
+      213: -242281815447026849
+    second: Hermes2 (1)_1373
+  - first:
+      213: -5267218603360342813
+    second: Hermes2 (1)_1374
+  - first:
+      213: 4698507007981125962
+    second: Hermes2 (1)_1375
+  - first:
+      213: 7048138822113279160
+    second: Hermes2 (1)_1376
+  - first:
+      213: -3871855223355962151
+    second: Hermes2 (1)_1377
+  - first:
+      213: -5915629530692150900
+    second: Hermes2 (1)_1378
+  - first:
+      213: 8778475005796955199
+    second: Hermes2 (1)_1379
+  - first:
+      213: 2831767540524801205
+    second: Hermes2 (1)_1380
+  - first:
+      213: 1300248697487377682
+    second: Hermes2 (1)_1381
+  - first:
+      213: -5564138820699446967
+    second: Hermes2 (1)_1382
+  - first:
+      213: 6727531799785044559
+    second: Hermes2 (1)_1383
+  - first:
+      213: 7861438461945660295
+    second: Hermes2 (1)_1384
+  - first:
+      213: 4999146332541318890
+    second: Hermes2 (1)_1385
+  - first:
+      213: 1063088245790886311
+    second: Hermes2 (1)_1386
+  - first:
+      213: -6339000079102665716
+    second: Hermes2 (1)_1387
+  - first:
+      213: -5101748891727605849
+    second: Hermes2 (1)_1388
+  - first:
+      213: -7834268560759883938
+    second: Hermes2 (1)_1389
+  - first:
+      213: 1149309818428085751
+    second: Hermes2 (1)_1390
+  - first:
+      213: -795536272675595785
+    second: Hermes2 (1)_1391
+  - first:
+      213: -8065218662842331696
+    second: Hermes2 (1)_1392
+  - first:
+      213: -7806270717892275603
+    second: Hermes2 (1)_1393
+  - first:
+      213: -3545996862316069350
+    second: Hermes2 (1)_1394
+  - first:
+      213: -282365976757351489
+    second: Hermes2 (1)_1395
+  - first:
+      213: -3787378800694001855
+    second: Hermes2 (1)_1396
+  - first:
+      213: 2651612174661119992
+    second: Hermes2 (1)_1397
+  - first:
+      213: -1608588918010344141
+    second: Hermes2 (1)_1398
+  - first:
+      213: 9076438238864187737
+    second: Hermes2 (1)_1399
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hermes2 (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2380
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4d7d34b5f6c4a10800000000000000
+      internalID: 1895011980987061495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2380
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953e8f2b09a15aa70800000000000000
+      internalID: 8837499052564734809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 2380
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432549071d67775e0800000000000000
+      internalID: -1911928874886475212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_3
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2380
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa7f53e60a8e1d00800000000000000
+      internalID: 945344733983505069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_4
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 2380
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f4de3baf0cc6380800000000000000
+      internalID: -8976587774263210121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_5
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 2380
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff0bb2af6e2961a0800000000000000
+      internalID: -6815865504042119181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_6
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2380
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0d17fd3266f05c0800000000000000
+      internalID: -4247063619328421669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_7
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 2380
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc6765126ded80d0800000000000000
+      internalID: -3418815536582660900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2040
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c41e4d6e8a12900800000000000000
+      internalID: 657992729940282391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_9
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2040
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2fee9af71343e30800000000000000
+      internalID: 4482261953522103000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_10
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 2040
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9c95c588d130cd0800000000000000
+      internalID: -2593196488933127721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_11
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2040
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5135cbd7087e1af40800000000000000
+      internalID: 5738121939298046741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_12
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 2040
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110f3af7663e12bf0800000000000000
+      internalID: -350749266590568431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_13
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 2040
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd754bfd076debf20800000000000000
+      internalID: 3440422945635456991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_14
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2040
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248cf153a2ab9ad30800000000000000
+      internalID: 4443287197820373058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_15
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 2040
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd71db7962245c960800000000000000
+      internalID: 7621570677916375007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1700
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09558adad8cb3b7c0800000000000000
+      internalID: -4056691522640783984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_17
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1700
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f199dfa54e11eac0800000000000000
+      internalID: -3827744923636362763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_18
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1700
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bd9befbd7d3e180800000000000000
+      internalID: -9087182283232126058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_19
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1700
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e6be063e1816e50800000000000000
+      internalID: 6800859725889760914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_20
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1700
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a277a3591e4be80800000000000000
+      internalID: -8163652193468601770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_21
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1700
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf0f65008dc13620800000000000000
+      internalID: 2752206797030756269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_22
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1700
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c6e0907fa538f00800000000000000
+      internalID: 1117837149573377150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_23
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 1700
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b1991766b0ca2c0800000000000000
+      internalID: -4419144599736870026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1360
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95112dca138d25f20800000000000000
+      internalID: 3410025575737332057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_25
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1360
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c94167061bab3e10800000000000000
+      internalID: 2178522955865213382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_26
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1360
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c775d4e025dee80800000000000000
+      internalID: -8147765929462760437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_27
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1360
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99ac5a493ccaff80800000000000000
+      internalID: -8071914835675403878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_28
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1360
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28d81fa908362e10800000000000000
+      internalID: 2172485484496345133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_29
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1360
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870fe6a9a2e858640800000000000000
+      internalID: 5081624068188205176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_30
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1360
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0555eea92bbc9e3f0800000000000000
+      internalID: -870941084955552432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_31
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 1360
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f612a58108c41a0800000000000000
+      internalID: -6823938493293432946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1020
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3fb553fa001e760800000000000000
+      internalID: 7485264808180970427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_33
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1020
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3f0a46a7c804800800000000000000
+      internalID: 594629608115073993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_34
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1020
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b62cda561def70f0800000000000000
+      internalID: -1116913502295152973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_35
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1020
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bba201ed12ece4a0800000000000000
+      internalID: -6562621939028677708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_36
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1020
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a36aa45c77443f70800000000000000
+      internalID: 9166029740927771561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_37
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1020
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc28907f3a57918e0800000000000000
+      internalID: -1722216035407789361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_38
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1020
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c894cdc1870a75520800000000000000
+      internalID: 2690795740117879180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_39
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 1020
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8512bf3fe837b400800000000000000
+      internalID: 339802897106736524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4382c2b8c33eac570800000000000000
+      internalID: 8487846296905590836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_41
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 680
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de7ebdc302946f80800000000000000
+      internalID: -8114200083580420399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_42
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 680
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625c850bec3cd2230800000000000000
+      internalID: 3615761368337663270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_43
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 680
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ea70af54728bf40800000000000000
+      internalID: 5744384506212101779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_44
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 680
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed0139eb7f3653a0800000000000000
+      internalID: -6677079596104348188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_45
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 680
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb3b082fddfad520800000000000000
+      internalID: 2727771659217615870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_46
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 680
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad00ade7218ae0c40800000000000000
+      internalID: 5480502593947566298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_47
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 680
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821aeee1208d798a0800000000000000
+      internalID: -6298328050233859800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f102ac67b1961d10800000000000000
+      internalID: 2096022893575143929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_49
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 340
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfab3dc36e80a4590800000000000000
+      internalID: -7689323628825691395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_50
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 340
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fdcdebad69e15c0800000000000000
+      internalID: -4242787932687245454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_51
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 340
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c4503d443ecf0f0800000000000000
+      internalID: -1081739925738140635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_52
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 340
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc415b0a9507e61c0800000000000000
+      internalID: -4508542646700665649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_53
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 340
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11417d21915aec4d0800000000000000
+      internalID: -3112368765357583343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_54
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 340
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601c0090511755360800000000000000
+      internalID: 7157751517934567686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_55
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 340
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8edc8d2267ec50d0800000000000000
+      internalID: -3432614407106142577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bc38772041ccfb0800000000000000
+      internalID: -4626300716388725898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_57
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79103ecf770c21fe0800000000000000
+      internalID: -1219700927487606377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_58
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce88ab8295b914b0800000000000000
+      internalID: -5469140631451824435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_59
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 0
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172e5e3ddfc56f6f0800000000000000
+      internalID: -651230850856918415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_60
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 0
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed6ac6eef96c00a0800000000000000
+      internalID: -6914034784405918230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_61
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 0
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766699c9fa0a46040800000000000000
+      internalID: 4640010192205473383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_62
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 0
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530cbce5ee9362250800000000000000
+      internalID: 5919482456180506677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermes2 (1)_63
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 0
+        width: 340
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6853e255dc7af10800000000000000
+      internalID: 2281017502017619653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
